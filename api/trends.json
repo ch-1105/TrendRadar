@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-15T10:28:59.012245+08:00",
-  "total_titles_processed": 966,
+  "generated_at": "2025-10-15T11:36:23.703409+08:00",
+  "total_titles_processed": 1077,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "ranks": [
             6,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时25分 ~ 10时28分]"
+          "appearance_count": 14,
+          "time_info": "[00时25分 ~ 11时36分]"
         },
         {
           "title": "特朗普签署加沙停火协议",
@@ -53,11 +54,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345729&amp;topic_name=%E8%87%AA%E6%89%87%E8%80%B3%E5%85%89%3F%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E6%88%98%E6%B1%82%E5%92%8C%E4%B8%AD%E5%9B%BD",
           "source": "贴吧",
           "ranks": [
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时25分 ~ 10时28分]"
+          "appearance_count": 14,
+          "time_info": "[00时25分 ~ 11时36分]"
         },
         {
           "title": "特朗普：我对“两国方案”还没有表态",
@@ -255,6 +257,17 @@
           "time_info": "[00时25分 ~ 03时13分]"
         },
         {
+          "title": "特朗普称考虑终止与中国部分贸易往来",
+          "url": "https://news.ifeng.com/c/8nSohQvRLm8",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时00分 ~ 11时36分]"
+        },
+        {
           "title": "WTI原油期货目前跌1.25%，暂报58.33美元。 美国总统特朗普自认为，可能与俄罗斯总统普京仍然关系良好。",
           "url": "https://wallstreetcn.com/livenews/2987675",
           "source": "华尔街见闻-快讯",
@@ -329,15 +342,16 @@
           "time_info": "[06时15分 ~ 07时14分]"
         },
         {
-          "title": "特朗普称考虑终止与中国部分贸易往来",
-          "url": "https://news.ifeng.com/c/8nSohQvRLm8",
-          "source": "凤凰网",
+          "title": "否认“特朗普内线”，加大空仓至3.4亿美元！上周精准狙击币圈的“巨鲸”又有新动作",
+          "url": "https://wallstreetcn.com/articles/3757151",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时00分 ~ 10时28分]"
+          "appearance_count": 4,
+          "time_info": "[09时00分 ~ 11时36分]"
         },
         {
           "title": "美国总统特朗普：加沙和平计划第二阶段现在启动。 工作尚未完成，并不是所有死亡的人质都被归还。",
@@ -351,18 +365,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时13分 ~ 03时13分]"
-        },
-        {
-          "title": "否认“特朗普内线”，加大空仓至3.4亿美元！上周精准狙击币圈的“巨鲸”又有新动作",
-          "url": "https://wallstreetcn.com/articles/3757151",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时00分 ~ 10时28分]"
         },
         {
           "title": "特朗普改口称是想帮中国",
@@ -824,11 +826,12 @@
           "ranks": [
             12,
             11,
-            13
+            13,
+            7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时25分 ~ 10时28分]"
+          "appearance_count": 14,
+          "time_info": "[00时25分 ~ 11时36分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 鲍威尔暗示缩表接近尾声 市场押注10月再度降息",
@@ -837,11 +840,12 @@
           "ranks": [
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时14分 ~ 10时28分]"
+          "appearance_count": 5,
+          "time_info": "[07时14分 ~ 11时36分]"
         },
         {
           "title": "澳股、美股稀土板块持续飙涨 投机资金狂赌“美政府入股”逻辑",
@@ -1053,7 +1057,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
         },
@@ -1069,6 +1073,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时25分 ~ 02时28分]"
+        },
+        {
+          "title": "金价又创新高 何时会下跌",
+          "url": "https://www.toutiao.com/trending/7561245865755561535/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时28分 ~ 11时36分]"
         },
         {
           "title": "金价银价跳水",
@@ -1103,23 +1119,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
-        },
-        {
-          "title": "金价又创新高 何时会下跌",
-          "url": "https://www.toutiao.com/trending/7561245865755561535/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时28分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "1万亿订单再加3500-5000亿美元！OpenAI“停不下来”，“当你欠每家数千亿美元，钱的问题自己会解决”？",
@@ -1133,6 +1138,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时25分 ~ 07时14分]"
+        },
+        {
+          "title": "富士康董事长：近日会见了OpenAI首席执行官奥尔特曼，探讨了未来合作事宜。",
+          "url": "https://flash.jin10.com/detail/20251015111345243800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
         },
         {
           "title": "OpenAI拟在阿根廷投资250亿美元 打造拉美首个“星门”项目",
@@ -1152,11 +1168,23 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时00分 ~ 10时28分]"
+          "appearance_count": 4,
+          "time_info": "[09时00分 ~ 11时36分]"
+        },
+        {
+          "title": "AI重塑零售业！沃尔玛携手OpenAI在ChatGPT上推出购物功能",
+          "url": "https://www.cls.cn/detail/2169515",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
         },
         {
           "title": "德银：OpenAI在欧洲的订阅用户“增长停滞”",
@@ -1195,7 +1223,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
         },
@@ -1269,11 +1297,12 @@
           "source": "知乎",
           "ranks": [
             9,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时00分 ~ 10时28分]"
+          "appearance_count": 4,
+          "time_info": "[09时00分 ~ 11时36分]"
         }
       ]
     }
