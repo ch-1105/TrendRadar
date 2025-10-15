@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-15T13:15:49.618143+08:00",
-  "total_titles_processed": 1232,
+  "generated_at": "2025-10-15T14:21:28.826876+08:00",
+  "total_titles_processed": 1328,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 70,
+      "match_count": 71,
       "titles": [
         {
           "title": "特朗普呼吁赦免内塔尼亚胡，可行吗？",
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时25分 ~ 13时15分]"
+          "appearance_count": 17,
+          "time_info": "[00时25分 ~ 14时21分]"
         },
         {
           "title": "特朗普签署加沙停火协议",
@@ -62,6 +62,18 @@
           "time_info": "[00时25分 ~ 12时18分]"
         },
         {
+          "title": "特朗普称考虑终止与中国部分贸易往来",
+          "url": "https://news.ifeng.com/c/8nSohQvRLm8",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时00分 ~ 14时21分]"
+        },
+        {
           "title": "特朗普：我对“两国方案”还没有表态",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%88%91%E5%AF%B9%E2%80%9C%E4%B8%A4%E5%9B%BD%E6%96%B9%E6%A1%88%E2%80%9D%E8%BF%98%E6%B2%A1%E6%9C%89%E8%A1%A8%E6%80%81",
           "source": "百度热搜",
@@ -89,15 +101,17 @@
           "time_info": "[06时14分 ~ 07时14分]"
         },
         {
-          "title": "特朗普称考虑终止与中国部分贸易往来",
-          "url": "https://news.ifeng.com/c/8nSohQvRLm8",
-          "source": "凤凰网",
+          "title": "否认“特朗普内线”，加大空仓至3.4亿美元！上周精准狙击币圈的“巨鲸”又有新动作",
+          "url": "https://wallstreetcn.com/articles/3757151",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            10,
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时00分 ~ 13时15分]"
+          "appearance_count": 7,
+          "time_info": "[09时00分 ~ 14时21分]"
         },
         {
           "title": "美法官裁定：特朗普政府将移民执法与拨款挂钩违反法院命令",
@@ -142,18 +156,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
-        },
-        {
-          "title": "否认“特朗普内线”，加大空仓至3.4亿美元！上周精准狙击币圈的“巨鲸”又有新动作",
-          "url": "https://wallstreetcn.com/articles/3757151",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时00分 ~ 13时15分]"
         },
         {
           "title": "美国总统特朗普：我们想帮助阿根廷。",
@@ -583,6 +585,17 @@
           "time_info": "03时13分"
         },
         {
+          "title": "特朗普关税压力下 全球第四大车企宣布将在美投资130亿美元",
+          "url": "https://www.cls.cn/detail/2169818",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
           "title": "美国总统特朗普：与哈马斯的会谈是“通过我的人”在最高级别进行的。",
           "url": "https://flash.jin10.com/detail/20251015023128393800",
           "source": "金十数据",
@@ -842,8 +855,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时14分 ~ 13时15分]"
+          "appearance_count": 8,
+          "time_info": "[07时14分 ~ 14时21分]"
         },
         {
           "title": "TACO交易！科技股力撑美股反弹，博通涨近10%，黄金突破4100关口，历史性逼空助白银新高",
@@ -1049,11 +1062,12 @@
             11,
             8,
             6,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时00分 ~ 13时15分]"
+          "appearance_count": 7,
+          "time_info": "[09时00分 ~ 14时21分]"
         },
         {
           "title": "OpenAI制定五年期商业计划，以实现1万亿美元支出承诺。（英国金融时报）",
@@ -1100,8 +1114,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时36分 ~ 13时15分]"
+          "appearance_count": 4,
+          "time_info": "[11时36分 ~ 14时21分]"
         },
         {
           "title": "英媒：OpenAI制定了五年商业计划 以实现1万亿美元的支出承诺",
@@ -1110,7 +1124,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
         },
@@ -1121,7 +1135,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
         },
@@ -1132,7 +1146,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
         },
@@ -1143,7 +1157,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
         },
@@ -1154,7 +1168,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
         },
@@ -1165,7 +1179,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
         },
@@ -1244,6 +1258,19 @@
           "time_info": "10时28分"
         },
         {
+          "title": "金价创新高还能涨吗",
+          "url": "https://www.toutiao.com/trending/7561268723688934921/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时18分 ~ 14时21分]"
+        },
+        {
           "title": "金价飙升带火洗沙盘",
           "url": "https://www.toutiao.com/trending/7561063810480475711/",
           "source": "今日头条",
@@ -1255,18 +1282,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时25分 ~ 02时28分]"
-        },
-        {
-          "title": "金价创新高还能涨吗",
-          "url": "https://www.toutiao.com/trending/7561268723688934921/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时18分 ~ 13时15分]"
         },
         {
           "title": "金价又创新高 何时会下跌",
@@ -1416,11 +1431,12 @@
             9,
             7,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时00分 ~ 13时15分]"
+          "appearance_count": 7,
+          "time_info": "[09时00分 ~ 14时21分]"
         }
       ]
     }
