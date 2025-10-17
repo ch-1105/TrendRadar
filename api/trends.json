@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-18T03:13:09.097524+08:00",
-  "total_titles_processed": 512,
+  "generated_at": "2025-10-18T04:21:39.844722+08:00",
+  "total_titles_processed": 562,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "特朗普：美国也需要，不能把家底掏空",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 03时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 04时21分]"
         },
         {
           "title": "美俄讨论美供乌“战斧”，特朗普：普京不高兴",
@@ -26,30 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 03时13分]"
-        },
-        {
-          "title": "美国总统特朗普：希望我们能不用“战斧”导弹就结束战争。",
-          "url": "https://flash.jin10.com/detail/20251018015022050800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
-        },
-        {
-          "title": "美国总统特朗普：这不仅仅是钱的问题，我们需要“战斧”导弹和许多其他武器，我们正在向乌克兰运送这些武器。",
-          "url": "https://flash.jin10.com/detail/20251018015006993800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 04时21分]"
         },
         {
           "title": "特朗普又被告",
@@ -61,31 +39,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 03时13分]"
-        },
-        {
-          "title": "美国总统特朗普：印度将不再购买俄罗斯石油。",
-          "url": "https://flash.jin10.com/detail/20251018014747316800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
-        },
-        {
-          "title": "俄美总统通话 2.5 小时，普京正告特朗普「战斧」不会改变俄乌战局，双方还谈了什么？释放哪些信号？",
-          "url": "https://www.zhihu.com/question/1962439324869047516",
-          "source": "知乎",
-          "ranks": [
-            6,
-            9
-          ],
-          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[00时18分 ~ 03时13分]"
+          "time_info": "[00时18分 ~ 04时21分]"
         },
         {
           "title": "泽连斯基可能得再次从头说服特朗普",
@@ -94,18 +49,32 @@
           "ranks": [
             7,
             20,
-            6
+            6,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 03时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 04时21分]"
         },
         {
-          "title": "美国总统特朗普：将谈论向乌克兰输送“战斧”导弹。",
-          "url": "https://flash.jin10.com/detail/20251018014737855800",
+          "title": "俄美总统通话 2.5 小时，普京正告特朗普「战斧」不会改变俄乌战局，双方还谈了什么？释放哪些信号？",
+          "url": "https://www.zhihu.com/question/1962439324869047516",
+          "source": "知乎",
+          "ranks": [
+            6,
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 04时21分]"
+        },
+        {
+          "title": "美国总统特朗普：希望我们能不用“战斧”导弹就结束战争。",
+          "url": "https://flash.jin10.com/detail/20251018015022050800",
           "source": "金十数据",
           "ranks": [
-            5
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -121,8 +90,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 03时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 04时21分]"
         },
         {
           "title": "俄美峰会地点定了！俄方公布13点普京特朗普通话成果，释放何信号？",
@@ -132,8 +101,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 03时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 04时21分]"
         },
         {
           "title": "普京特朗普通话细节",
@@ -144,8 +113,41 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 03时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 04时21分]"
+        },
+        {
+          "title": "美国总统特朗普：这不仅仅是钱的问题，我们需要“战斧”导弹和许多其他武器，我们正在向乌克兰运送这些武器。",
+          "url": "https://flash.jin10.com/detail/20251018015006993800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时17分"
+        },
+        {
+          "title": "美国总统特朗普：印度将不再购买俄罗斯石油。",
+          "url": "https://flash.jin10.com/detail/20251018014747316800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时17分"
+        },
+        {
+          "title": "美国总统特朗普：将谈论向乌克兰输送“战斧”导弹。",
+          "url": "https://flash.jin10.com/detail/20251018014737855800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时17分"
         },
         {
           "title": "特朗普重新起诉《纽约时报》",
@@ -166,11 +168,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            13
+            13,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时17分 ~ 03时13分]"
+          "appearance_count": 3,
+          "time_info": "[02时17分 ~ 04时21分]"
         },
         {
           "title": "俄方发起、长2.5小时，俄美总统时隔近两月再通话，特朗普将与普京在布达佩斯会面",
@@ -196,6 +199,18 @@
           "time_info": "[02时17分 ~ 03时13分]"
         },
         {
+          "title": "特朗普与泽连斯基再度会面，就美供乌“战斧”等问题表态",
+          "url": "https://wallstreetcn.com/livenews/2989872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时13分 ~ 04时21分]"
+        },
+        {
           "title": "美国参议院民主党成员Warren再次呼呼特朗普政府在美联储10月份货币政策会议之前发布9月非农就业报告。",
           "url": "https://wallstreetcn.com/livenews/2989857",
           "source": "华尔街见闻-快讯",
@@ -208,15 +223,16 @@
           "time_info": "[02时17分 ~ 03时13分]"
         },
         {
-          "title": "特朗普与泽连斯基再度会面，就美供乌“战斧”等问题表态",
-          "url": "https://wallstreetcn.com/livenews/2989872",
+          "title": "特朗普政府对美国纽约市等多地暂停110亿美元项目拨款。",
+          "url": "https://wallstreetcn.com/livenews/2989870",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            8,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时13分 ~ 04时21分]"
         },
         {
           "title": "美国总统特朗普：（提到普京和泽连斯基）他们之间有着极大的积怨，我认为这正在阻碍局势的解决。",
@@ -241,17 +257,6 @@
           "time_info": "02时17分"
         },
         {
-          "title": "特朗普政府对美国纽约市等多地暂停110亿美元项目拨款。",
-          "url": "https://wallstreetcn.com/livenews/2989870",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
           "title": "美国总统特朗普：普京和泽连斯基在谈判中都做得很好。",
           "url": "https://flash.jin10.com/detail/20251018014418277800",
           "source": "金十数据",
@@ -261,6 +266,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
+        },
+        {
+          "title": "30年来首次：美国法院因特朗普政府关门而面临强制性无薪休假",
+          "url": "https://wallstreetcn.com/livenews/2989886",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
         },
         {
           "title": "美国总统特朗普：允许对俄罗斯进行深度打击将意味着局势升级。",
@@ -445,7 +461,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
         },
@@ -476,8 +492,22 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 04时21分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D0%26cate%3D5001%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26dgr%3D0%26realpos%3D29%26c_type%3D31%26stream_entry_id%3D31%26filter_type%3Drealtimehot%26band_rank%3D29%26lcate%3D5001%26pos%3D29%26display_time%3D1760721007%26pre_seqid%3D176072100743803586256114",
+          "source": "微博",
+          "ranks": [
+            29,
+            25,
+            24,
+            28
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[00时18分 ~ 03时13分]"
+          "time_info": "[01时15分 ~ 04时21分]"
         },
         {
           "title": "非洲股市收盘播报｜南非股市收跌超2%，追随金价从历史最高位回撤的表现",
@@ -490,19 +520,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时18分 ~ 01时15分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D0%26cate%3D5001%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26dgr%3D0%26realpos%3D29%26c_type%3D31%26stream_entry_id%3D31%26filter_type%3Drealtimehot%26band_rank%3D29%26lcate%3D5001%26pos%3D29%26display_time%3D1760721007%26pre_seqid%3D176072100743803586256114",
-          "source": "微博",
-          "ranks": [
-            29,
-            25,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 03时13分]"
         },
         {
           "title": "金价涨了 金条能变现吗",
@@ -554,7 +571,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "贸易担忧缓解，美股三大股指涨跌不一，美股区域银行股走高，黄金短线跳水失守4270美元/盎司",
@@ -565,8 +582,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 03时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 04时21分]"
         },
         {
           "title": "美股三大期指跌幅收窄 银行信贷爆雷担忧降温 | 今夜看点",
@@ -577,8 +594,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 03时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 04时21分]"
+        },
+        {
+          "title": "美股费城金银指数下跌7.1%，创4月4日以来最差单日表现。",
+          "url": "https://wallstreetcn.com/livenews/2989895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
         },
         {
           "title": "金十图示：2025年10月17日（周五）美股热门股票行情一览（美股盘中）",
@@ -634,8 +662,25 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 03时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 04时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "伊朗外长：安理会第2231号决议18日到期 既往对伊限制将终止",
+          "url": "https://flash.jin10.com/detail/20251018034405343800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
         }
       ]
     }
