@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-17T21:25:29.962514+08:00",
-  "total_titles_processed": 2031,
+  "generated_at": "2025-10-17T22:15:30.086481+08:00",
+  "total_titles_processed": 2101,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 111,
+      "match_count": 113,
       "titles": [
         {
           "title": "特朗普中东行有何成果",
@@ -57,6 +57,18 @@
           "time_info": "[00时17分 ~ 09时01分]"
         },
         {
+          "title": "美俄讨论美供乌“战斧”，特朗普：普京不高兴",
+          "url": "https://news.ifeng.com/c/8nWlNWrEz3l",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时17分 ~ 22时15分]"
+        },
+        {
           "title": "特朗普称与普京通话取得进展，计划在布达佩斯进行会面",
           "url": "https://www.cls.cn/detail/2172088",
           "source": "财联社热门",
@@ -69,18 +81,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[07时13分 ~ 15时15分]"
-        },
-        {
-          "title": "美俄讨论美供乌“战斧”，特朗普：普京不高兴",
-          "url": "https://news.ifeng.com/c/8nWlNWrEz3l",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时17分 ~ 21时25分]"
         },
         {
           "title": "特朗普与普京约定在匈牙利会面",
@@ -99,6 +99,35 @@
           "time_info": "[10时25分 ~ 20时28分]"
         },
         {
+          "title": "普京特朗普通话细节",
+          "url": "https://www.douyin.com/hot/2272619",
+          "source": "抖音",
+          "ranks": [
+            5,
+            11,
+            10,
+            9,
+            20,
+            25,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时27分 ~ 22时15分]"
+        },
+        {
+          "title": "俄美总统通话 2.5 小时，普京正告特朗普「战斧」不会改变俄乌战局，双方还谈了什么？释放哪些信号？",
+          "url": "https://www.zhihu.com/question/1962439324869047516",
+          "source": "知乎",
+          "ranks": [
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时27分 ~ 22时15分]"
+        },
+        {
           "title": "俄方发起、长2.5小时，俄美总统时隔近两月再通话，特朗普将与普京在布达佩斯会面",
           "url": "https://wallstreetcn.com/articles/3757333",
           "source": "华尔街见闻",
@@ -108,8 +137,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时25分 ~ 21时25分]"
+          "appearance_count": 15,
+          "time_info": "[10时25分 ~ 22时15分]"
         },
         {
           "title": "俄美峰会地点定了！俄方公布13点普京特朗普通话成果，释放何信号？",
@@ -125,37 +154,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时32分 ~ 21时25分]"
-        },
-        {
-          "title": "普京特朗普通话细节",
-          "url": "https://www.douyin.com/hot/2272619",
-          "source": "抖音",
-          "ranks": [
-            5,
-            11,
-            10,
-            9,
-            20,
-            25,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时27分 ~ 21时25分]"
-        },
-        {
-          "title": "俄美总统通话 2.5 小时，普京正告特朗普「战斧」不会改变俄乌战局，双方还谈了什么？释放哪些信号？",
-          "url": "https://www.zhihu.com/question/1962439324869047516",
-          "source": "知乎",
-          "ranks": [
-            13,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时27分 ~ 21时25分]"
+          "appearance_count": 13,
+          "time_info": "[11时32分 ~ 22时15分]"
         },
         {
           "title": "特朗普与普京将在布达佩斯举行会晤 美军3架B52飞赴委内瑞拉近海 | 环球市场",
@@ -169,6 +169,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[09时01分 ~ 16时19分]"
+        },
+        {
+          "title": "特朗普：美国也需要，不能把家底掏空",
+          "url": "https://news.ifeng.com/c/8nWeYYSYxvH",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时13分 ~ 22时15分]"
         },
         {
           "title": "博尔顿遭起诉，特朗普：他是个坏人",
@@ -194,17 +205,6 @@
           "time_info": "[05时37分 ~ 07时13分]"
         },
         {
-          "title": "特朗普：美国也需要，不能把家底掏空",
-          "url": "https://news.ifeng.com/c/8nWeYYSYxvH",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时13分 ~ 21时25分]"
-        },
-        {
           "title": "中方回应特朗普让中国停买俄石油",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A9%E4%B8%AD%E5%9B%BD%E5%81%9C%E4%B9%B0%E4%BF%84%E7%9F%B3%E6%B2%B9",
           "source": "百度热搜",
@@ -218,6 +218,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时01分 ~ 13时15分]"
+        },
+        {
+          "title": "泽连斯基可能得再次从头说服特朗普",
+          "url": "https://www.toutiao.com/trending/7561736617245838889/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时16分 ~ 22时15分]"
         },
         {
           "title": "特朗普授权CIA在委开展“致命行动”，马杜罗：不需要",
@@ -270,19 +283,6 @@
           "time_info": "[02时19分 ~ 07时13分]"
         },
         {
-          "title": "泽连斯基可能得再次从头说服特朗普",
-          "url": "https://www.toutiao.com/trending/7561736617245838889/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时16分 ~ 21时25分]"
-        },
-        {
           "title": "克里姆林宫官员：美国总统特朗普告诉俄罗斯总统普京，冲突的结束将为与俄罗斯的经济合作开辟令人振奋的机遇。",
           "url": "https://flash.jin10.com/detail/20251017021120489800",
           "source": "金十数据",
@@ -325,6 +325,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        },
+        {
+          "title": "特朗普重新提交对《纽约时报》150亿美元诽谤诉讼",
+          "url": "https://wallstreetcn.com/livenews/2989789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         },
         {
           "title": "克里姆林宫官员：特朗普与普京的通话持续了近2.5小时。两国将迅速为峰会做好准备。",
@@ -1173,6 +1184,17 @@
           "time_info": "10时26分"
         },
         {
+          "title": "马斯克说普京与特朗普通话令人鼓舞",
+          "url": "https://www.toutiao.com/trending/7561554652811034670/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
           "title": "克里姆林宫官员：俄罗斯总统普京告诉美国总统特朗普，\"战斧\"导弹不会改变战场局势，但会损害美俄关系及和平进程。",
           "url": "https://flash.jin10.com/detail/20251017021451678800",
           "source": "金十数据",
@@ -1297,7 +1319,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 30,
+      "match_count": 35,
       "titles": [
         {
           "title": "美股收盘：区域银行信贷“暴雷”引发担忧 三大指数集体收跌",
@@ -1338,17 +1360,6 @@
           "time_info": "05时37分"
         },
         {
-          "title": "周五美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/2989778",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时25分"
-        },
-        {
           "title": "银行坏账担忧引爆美股抛售，美股三大指数跌，黄金升破4300美元，VIX涨超20%",
           "url": "https://wallstreetcn.com/articles/3757299",
           "source": "华尔街见闻",
@@ -1382,6 +1393,17 @@
           "time_info": "01时13分"
         },
         {
+          "title": "美股盘初，主要行业ETF涨跌不一，能源业ETF涨约0.9%，半导体ETF跌幅居前。",
+          "url": "https://wallstreetcn.com/livenews/2989788",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
           "title": "台积电强劲业绩带动AI乐观情绪，美股三大股指集体上涨，科技股盘前多数走高，金银维持强势，加密货币震荡",
           "url": "https://wallstreetcn.com/articles/3757299",
           "source": "华尔街见闻",
@@ -1394,6 +1416,17 @@
           "time_info": "[00时17分 ~ 01时13分]"
         },
         {
+          "title": "贸易担忧缓解，美股三大股指涨跌不一，美股区域银行股走高，黄金短线跳水失守4270美元/盎司",
+          "url": "https://wallstreetcn.com/articles/3757385",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
           "title": "金十图示：2025年10月16日（周四）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251017040514550800",
           "source": "金十数据",
@@ -1403,6 +1436,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
+        },
+        {
+          "title": "金十图示：2025年10月17日（周五）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251017214136597800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
+          "title": "美股三大股指开盘涨跌不一，道指涨0.05%，标普500指数跌0.18%，纳指跌0.38%。银行股小幅走高，阿莱恩斯西部银行涨近2%，Zions涨近3%。礼来跌超3%，诺和诺德跌超4%，特朗普称“司美格鲁肽药价将大跌”。",
+          "url": "https://wallstreetcn.com/livenews/2989785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2989778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时25分 ~ 22时15分]"
         },
         {
           "title": "美股地区银行指数收跌6.3%，创4月份以来最差单日表现。 Zions收跌13%，Western Alliance跌11%。",
@@ -1427,6 +1494,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时01分 ~ 10时26分]"
+        },
+        {
+          "title": "美股三大期指跌幅收窄 银行信贷爆雷担忧降温 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2173194",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时25分 ~ 22时15分]"
+        },
+        {
+          "title": "美股区域银行股盘前走高，Zions抹去此前跌幅，现涨超4%；阿莱恩斯西部银行现涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/2989757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时25分 ~ 22时15分]"
         },
         {
           "title": "美股收盘：三大股指集体收跌 金龙指数跌近1%",
@@ -1471,17 +1562,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
-        },
-        {
-          "title": "美股三大期指跌幅收窄 银行信贷爆雷担忧降温 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2173194",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时25分"
         },
         {
           "title": "美股盘前，科技股普跌，甲骨文跌超3%，英伟达跌超2%，银行股走低，花旗跌近1.7%，美国银行跌超3%。",
@@ -1539,6 +1619,17 @@
           "time_info": "05时37分"
         },
         {
+          "title": "美股开盘，道指涨0.05%，标普500指数跌0.18%，纳指跌0.38%。区域银行股止跌回升，阿莱恩斯西部银行(WAL.N)涨1.9%，Zions Bancorp涨2.9%。特朗普称减肥药物价格将下调，礼来(LLY.N)跌3.7%，诺和诺德(NVO.N)跌4.1%。纳斯达克中国金龙指数跌1.3%。",
+          "url": "https://flash.jin10.com/detail/20251017213044438800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
           "title": "美股三大股指期货持续走低，纳斯达克100指数期货跌1%，标普500指数期货跌0.85%，道指期货跌0.61%。",
           "url": "https://wallstreetcn.com/livenews/2989511",
           "source": "华尔街见闻-快讯",
@@ -1559,17 +1650,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
-        },
-        {
-          "title": "美股区域银行股盘前走高，Zions抹去此前跌幅，现涨超4%；阿莱恩斯西部银行现涨超3%。",
-          "url": "https://wallstreetcn.com/livenews/2989757",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时25分"
         },
         {
           "title": "金十图示：2025年10月16日（周四）美股热门股票行情一览（美股盘中）",
@@ -1662,8 +1742,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时28分 ~ 21时25分]"
+          "appearance_count": 3,
+          "time_info": "[20时28分 ~ 22时15分]"
         },
         {
           "title": "金价涨了 金条能变现吗",
@@ -1672,9 +1752,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时25分 ~ 22时15分]"
         },
         {
           "title": "金价一夜暴涨有投资者彻夜难眠",
@@ -1700,6 +1780,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时17分 ~ 19时13分]"
+        },
+        {
+          "title": "金价暴涨有新人用“金包银”省5万",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E6%9C%89%E6%96%B0%E4%BA%BA%E7%94%A8%E2%80%9C%E9%87%91%E5%8C%85%E9%93%B6%E2%80%9D%E7%9C%815%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            26,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时13分 ~ 22时15分]"
         },
         {
           "title": "今年金价已经创45次新高",
@@ -1740,18 +1833,6 @@
           "time_info": "[10时25分 ~ 11时32分]"
         },
         {
-          "title": "金价暴涨有新人用“金包银”省5万",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E6%9C%89%E6%96%B0%E4%BA%BA%E7%94%A8%E2%80%9C%E9%87%91%E5%8C%85%E9%93%B6%E2%80%9D%E7%9C%815%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时13分 ~ 21时25分]"
-        },
-        {
           "title": "是什么一直支持黄金价格一路飙升",
           "url": "https://www.toutiao.com/trending/7561799628442570266/",
           "source": "今日头条",
@@ -1774,6 +1855,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时28分 ~ 21时25分]"
+        },
+        {
+          "title": "金价暴涨时 4万5黄金订单蒸发",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E6%97%B6+4%E4%B8%875%E9%BB%84%E9%87%91%E8%AE%A2%E5%8D%95%E8%92%B8%E5%8F%91",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时25分 ~ 22时15分]"
         },
         {
           "title": "投资者关注美联储降息前景：两年期美债收益率跌约8个基点，逼近3.41%，日元走强，美股下跌，金价回落",
@@ -1844,17 +1937,6 @@
           "time_info": "09时01分"
         },
         {
-          "title": "金价暴涨时 4万5黄金订单蒸发",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E6%97%B6+4%E4%B8%875%E9%BB%84%E9%87%91%E8%AE%A2%E5%8D%95%E8%92%B8%E5%8F%91",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时25分"
-        },
-        {
           "title": "金十图示：2025年10月17日（周五）上海金午盘价为998.8元/克，较国际金价(992.48元/克)，高6.32元/克",
           "url": "https://flash.jin10.com/detail/20251017152321257800",
           "source": "金十数据",
@@ -1890,8 +1972,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时01分 ~ 21时25分]"
+          "appearance_count": 16,
+          "time_info": "[09时01分 ~ 22时15分]"
         },
         {
           "title": "美债、黄金大涨！美国信贷“蟑螂”成群出没 区域银行危机再现？",
