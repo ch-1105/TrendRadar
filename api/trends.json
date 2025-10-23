@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-23T20:29:10.066786+08:00",
-  "total_titles_processed": 1941,
+  "generated_at": "2025-10-23T21:29:41.952467+08:00",
+  "total_titles_processed": 2036,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 99,
+      "match_count": 101,
       "titles": [
         {
           "title": "特朗普取消与普京会面，克里姆林宫回应",
@@ -85,8 +85,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时15分 ~ 20时29分]"
+          "appearance_count": 11,
+          "time_info": "[13时15分 ~ 21时29分]"
         },
         {
           "title": "中方回应特朗普称中美将达成贸易协议",
@@ -144,8 +144,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时15分 ~ 20时29分]"
+          "appearance_count": 11,
+          "time_info": "[13时15分 ~ 21时29分]"
         },
         {
           "title": "从宣布到取消，特朗普与普京会晤为何被“急踩刹车”？",
@@ -156,11 +156,12 @@
             12,
             13,
             11,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时28分 ~ 20时29分]"
+          "appearance_count": 14,
+          "time_info": "[10时28分 ~ 21时29分]"
         },
         {
           "title": "特朗普“强拆”白宫东翼引争议，新建宴会厅面积和资金来源遭质疑",
@@ -191,8 +192,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时19分 ~ 20时29分]"
+          "appearance_count": 24,
+          "time_info": "[00时19分 ~ 21时29分]"
         },
         {
           "title": "中方回应特朗普称中美将达成协议",
@@ -264,6 +265,28 @@
           "time_info": "[10时28分 ~ 15时16分]"
         },
         {
+          "title": "特朗普访日行程公布",
+          "url": "https://news.ifeng.com/c/8ngeBFUGsML",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时19分 ~ 21时29分]"
+        },
+        {
+          "title": "特朗普第二任期首次制裁俄罗斯，已对普京失去耐心？",
+          "url": "https://news.ifeng.com/c/8ngrvoE5VJT",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时28分 ~ 21时29分]"
+        },
+        {
           "title": "从宣布到取消 特朗普与普京会晤为何被“急踩刹车”？",
           "url": "https://www.cls.cn/detail/2177703",
           "source": "财联社热门",
@@ -275,17 +298,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时28分 ~ 16时19分]"
-        },
-        {
-          "title": "特朗普访日行程公布",
-          "url": "https://news.ifeng.com/c/8ngeBFUGsML",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时19分 ~ 20时29分]"
         },
         {
           "title": "特朗普：取消与普京的会面",
@@ -346,17 +358,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时21分 ~ 07时16分]"
-        },
-        {
-          "title": "特朗普第二任期首次制裁俄罗斯，已对普京失去耐心？",
-          "url": "https://news.ifeng.com/c/8ngrvoE5VJT",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时28分 ~ 20时29分]"
         },
         {
           "title": "特朗普说是时候制裁俄罗斯了",
@@ -512,7 +513,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时29分"
         },
@@ -822,6 +823,17 @@
           "time_info": "[16时19分 ~ 17时17分]"
         },
         {
+          "title": "美国白宫：特朗普政府将阿根廷牛肉的关税配额提高至8万吨，以降低价格。",
+          "url": "https://flash.jin10.com/detail/20251023204828232800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
+        },
+        {
           "title": "特朗普否认“允许乌克兰使用远程导弹”的报道",
           "url": "https://wallstreetcn.com/livenews/2992076",
           "source": "华尔街见闻-快讯",
@@ -905,7 +917,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时29分"
         },
@@ -916,7 +928,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时29分"
         },
@@ -941,6 +953,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
+        },
+        {
+          "title": "白宫表示，特朗普政府将阿根廷牛肉的关税配额上调至8万吨，以降低价格。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/2992608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
         },
         {
           "title": "美媒称美国允许乌对俄使用远程导弹 特朗普：假新闻！",
@@ -971,7 +994,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时29分"
         },
@@ -982,7 +1005,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时29分"
         },
@@ -1188,7 +1211,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "美股指普跌，动量股抛售继续，量子计算股重挫，原油逆市上涨，金银期货止跌",
@@ -1198,8 +1221,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时02分 ~ 20时29分]"
+          "appearance_count": 16,
+          "time_info": "[09时02分 ~ 21时29分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 纳指跌近1% 奈飞大跌10%",
@@ -1298,6 +1321,17 @@
           "time_info": "04时19分"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-10-23）",
+          "url": "https://flash.jin10.com/detail/20251023205439447800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
+        },
+        {
           "title": "蔚来汽车(NIO.N)美股盘前涨超1.5%，此前有报道称，蔚来上周交付破万。",
           "url": "https://flash.jin10.com/detail/20251023164713851800",
           "source": "金十数据",
@@ -1380,6 +1414,17 @@
           "time_info": "04时19分"
         },
         {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2992616",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
+        },
+        {
           "title": "诺基亚美股盘前上涨9.7%。诺基亚第三季度调整后营业利润4.35亿欧元，预估3.242亿欧元。",
           "url": "https://wallstreetcn.com/livenews/2992438",
           "source": "华尔街见闻-快讯",
@@ -1438,7 +1483,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "金价为何暴跌？高盛交易员：黄金走势图看起来就像一只妖股的崩盘",
@@ -1571,6 +1616,17 @@
           "time_info": "[00时19分 ~ 05时13分]"
         },
         {
+          "title": "金价暴跌之际，高盛“坚定看涨”：维持明年底4900美元目标价，甚至有“上行风险”",
+          "url": "https://wallstreetcn.com/articles/3757691",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时28分 ~ 21时29分]"
+        },
+        {
           "title": "金价回调可以“上车”了吗",
           "url": "https://www.toutiao.com/trending/7564198979416624682/",
           "source": "今日头条",
@@ -1581,17 +1637,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时34分 ~ 12时18分]"
-        },
-        {
-          "title": "金价暴跌之际，高盛“坚定看涨”：维持明年底4900美元目标价，甚至有“上行风险”",
-          "url": "https://wallstreetcn.com/articles/3757691",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时28分 ~ 20时29分]"
         },
         {
           "title": "分析师：美政府停摆持续与地缘政治紧张局势推动金价重返4100美元上方",
@@ -1614,6 +1659,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
+        },
+        {
+          "title": "摩根大通策略师团队：金价未来三年内可能会翻倍",
+          "url": "https://wallstreetcn.com/livenews/2992623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
         },
         {
           "title": "高盛维持到2026年底金价在每盎司4900美元的预测。",
@@ -1643,8 +1699,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时02分 ~ 20时29分]"
+          "appearance_count": 16,
+          "time_info": "[09时02分 ~ 21时29分]"
         },
         {
           "title": "比超级计算机快1.3万倍！谷歌量子计算再现突破 诺奖得主送上关键助攻",
