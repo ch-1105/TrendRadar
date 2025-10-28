@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T15:15:05.010480+08:00",
-  "total_titles_processed": 1307,
+  "generated_at": "2025-10-28T16:21:43.817728+08:00",
+  "total_titles_processed": 1426,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 63,
       "titles": [
         {
           "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
@@ -152,6 +152,20 @@
           "time_info": "[07时13分 ~ 12时19分]"
         },
         {
+          "title": "特朗普见高市早苗三句话不离安倍",
+          "url": "https://www.toutiao.com/trending/7565133400080928262/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            5,
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时16分 ~ 16时21分]"
+        },
+        {
           "title": "美国总统特朗普：正在与日本签署一项新协议，这是一项公平的协议。",
           "url": "https://flash.jin10.com/detail/20251028090239806800",
           "source": "金十数据",
@@ -161,6 +175,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时09分"
+        },
+        {
+          "title": "美国总统特朗普：日本是美国的大投资者。",
+          "url": "https://flash.jin10.com/detail/20251028155739360800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
+          "title": "特朗普：我们将重新开始造船，很快就会这么做。 我们将与日本合作造船。 日本是美国的大投资者。 丰田将在美国建厂，价值将高达100亿美元。",
+          "url": "https://wallstreetcn.com/livenews/2994894",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "特朗普到底薅了全世界多少钱",
@@ -175,6 +211,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时20分 ~ 04时15分]"
+        },
+        {
+          "title": "高市早苗给特朗普送礼 日网民炸锅",
+          "url": "https://www.toutiao.com/trending/7566135501460098598/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "美国总统特朗普：对日本订购军事装备表示赞赏。",
@@ -199,6 +246,17 @@
           "time_info": "10时31分"
         },
         {
+          "title": "美国总统特朗普：丰田将在美国建造价值高达100亿美元的工厂。",
+          "url": "https://flash.jin10.com/detail/20251028155533375800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
           "title": "美国总统特朗普：美国已收到日本的军事装备订单。",
           "url": "https://flash.jin10.com/detail/20251028090156945800",
           "source": "金十数据",
@@ -210,28 +268,26 @@
           "time_info": "09时09分"
         },
         {
-          "title": "特朗普见高市早苗三句话不离安倍",
-          "url": "https://www.toutiao.com/trending/7565133400080928262/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            5,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时16分 ~ 15时15分]"
-        },
-        {
           "title": "日本财务大臣片山皋月：在与日本首相高市早苗会晤时，美国总统特朗普表示“很高兴再次见到你，我们建立了非常良好的关系”。",
           "url": "https://flash.jin10.com/detail/20251028145714701800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
+        },
+        {
+          "title": "美国总统特朗普：我们又开始造船了，我们很快就会造。",
+          "url": "https://flash.jin10.com/detail/20251028155313523800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "特朗普东京下榻酒店军犬检查车辆",
@@ -305,6 +361,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时13分 ~ 03时13分]"
+        },
+        {
+          "title": "学者：特朗普的“慢刀子”扎进俄死穴",
+          "url": "https://www.toutiao.com/trending/7566111913025900074/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时14分 ~ 16时21分]"
         },
         {
           "title": "高市早苗欲送特朗普安倍球杆",
@@ -433,17 +501,6 @@
           "time_info": "[13时16分 ~ 14时23分]"
         },
         {
-          "title": "学者：特朗普的“慢刀子”扎进俄死穴",
-          "url": "https://www.toutiao.com/trending/7566111913025900074/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时14分 ~ 15时15分]"
-        },
-        {
           "title": "高市早苗会见特朗普 现场奏美国国歌",
           "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%BC%9A%E8%A7%81%E7%89%B9%E6%9C%97%E6%99%AE+%E7%8E%B0%E5%9C%BA%E5%A5%8F%E7%BE%8E%E5%9B%BD%E5%9B%BD%E6%AD%8C",
           "source": "百度热搜",
@@ -565,6 +622,28 @@
           "time_info": "09时09分"
         },
         {
+          "title": "特朗普：高市早苗在谈判中很强硬，但双方关系良好。",
+          "url": "https://wallstreetcn.com/livenews/2994870",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
+          "title": "高市早苗：日本做好准备为和平与稳定作出更多贡献。 将与特朗普一起将盟友关系推升至新的高度。",
+          "url": "https://wallstreetcn.com/livenews/2994867",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
           "title": "墨西哥比索兑美元短线拉升，日内整体涨超0.4%，逼近18.37比索。 墨西哥股指涨幅重新扩大至将近0.6%。 墨西哥总统辛鲍姆称，上周六与美国总统特朗普通话。 两国接近达成非关税壁垒协议。 美方将（针对墨西哥的）贸易截至日期推后好几周时间。",
           "url": "https://wallstreetcn.com/livenews/2994435",
           "source": "华尔街见闻-快讯",
@@ -585,6 +664,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时09分"
+        },
+        {
+          "title": "特朗普：美日拥有令人珍视的同盟关系。",
+          "url": "https://wallstreetcn.com/livenews/2994862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "特朗普称米莱赢了让美国赚了很多钱",
@@ -620,6 +710,28 @@
           "time_info": "03时13分"
         },
         {
+          "title": "美国总统特朗普：本周将向日本交付首批导弹。",
+          "url": "https://flash.jin10.com/detail/20251028152925804800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
+          "title": "美国总统特朗普：美日联盟是“整个世界上最卓越的关系之一”。",
+          "url": "https://flash.jin10.com/detail/20251028152443500800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
           "title": "美国总统特朗普：日本正在增加国防开支。",
           "url": "https://flash.jin10.com/detail/20251028105119280800",
           "source": "金十数据",
@@ -644,8 +756,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时09分 ~ 15时15分]"
+          "appearance_count": 11,
+          "time_info": "[09时09分 ~ 16时21分]"
         },
         {
           "title": "美股收盘：三大指数齐刷历史新高 高通进军AI芯片股价暴涨11%",
@@ -917,11 +1029,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时40分 ~ 15时15分]"
+          "appearance_count": 8,
+          "time_info": "[11时40分 ~ 16时21分]"
         },
         {
           "title": "印度2025年排灯节头两天的黄金购买量超过40吨。 相比珠宝，印度消费者更青睐金币和金条。 投资动机对黄金购买行为的影响力超过消费需求。 摩根士丹利认为，印度家庭所持黄金价值大约3.8万亿美元。",
@@ -937,6 +1050,18 @@
           "time_info": "[01时13分 ~ 03时13分]"
         },
         {
+          "title": "金价突然杀跌原因何在",
+          "url": "https://www.toutiao.com/trending/7565674495126847531/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时14分 ~ 16时21分]"
+        },
+        {
           "title": "金价",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26pos%3D23%26lcate%3D5001%26realpos%3D22%26flag%3D1%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26cate%3D5001%26band_rank%3D22%26display_time%3D1761613260%26pre_seqid%3D17616132604180194835729",
           "source": "微博",
@@ -949,24 +1074,13 @@
           "time_info": "[09时09分 ~ 10时31分]"
         },
         {
-          "title": "金价突然杀跌原因何在",
-          "url": "https://www.toutiao.com/trending/7565674495126847531/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时14分 ~ 15时15分]"
-        },
-        {
           "title": "分析师：贸易乐观情绪拖累金价 避险买盘有所减少",
           "url": "https://flash.jin10.com/detail/20251028144551726800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         }
