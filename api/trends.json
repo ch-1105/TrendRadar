@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-11-07T20:29:14.273043+08:00",
-  "total_titles_processed": 1795,
+  "generated_at": "2025-11-07T21:25:03.839227+08:00",
+  "total_titles_processed": 1883,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 83,
       "titles": [
+        {
+          "title": "美科学家：有人调侃，特朗普干一辈子，对中国科研是大好事",
+          "url": "https://news.ifeng.com/c/8o5IuV0EIi3",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时15分 ~ 21时25分]"
+        },
         {
           "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
           "url": "https://wallstreetcn.com/articles/3758755",
@@ -28,18 +40,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时19分 ~ 07时14分]"
-        },
-        {
-          "title": "美科学家：有人调侃，特朗普干一辈子，对中国科研是大好事",
-          "url": "https://news.ifeng.com/c/8o5IuV0EIi3",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时15分 ~ 20时29分]"
         },
         {
           "title": "特朗普：美国人正为关税付出代价",
@@ -120,6 +120,17 @@
           "time_info": "[09时02分 ~ 09时03分]"
         },
         {
+          "title": "拉美领导人在COP30集体开喷，哥伦比亚总统：特朗普反人类",
+          "url": "https://news.ifeng.com/c/8o5WciamJwF",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时13分 ~ 21时25分]"
+        },
+        {
           "title": "关税案开审，特朗普：美国人确实付出代价",
           "url": "https://news.ifeng.com/c/8o5JSiZK3J5",
           "source": "凤凰网",
@@ -153,6 +164,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31914607",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时13分 ~ 21时25分]"
         },
         {
           "title": "特朗普政府签署行政令，敲定从周五开始削减4%的航班，并将于11月14日削减至10%。",
@@ -211,17 +235,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时17分 ~ 14时22分]"
-        },
-        {
-          "title": "拉美领导人在COP30集体开喷，哥伦比亚总统：特朗普反人类",
-          "url": "https://news.ifeng.com/c/8o5WciamJwF",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时13分 ~ 20时29分]"
         },
         {
           "title": "美国总统特朗普：如果最高法院做出不利于关税的裁决，那将是“毁灭性的”。",
@@ -348,18 +361,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时17分 ~ 13时16分]"
-        },
-        {
-          "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31914607",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时13分 ~ 20时29分]"
         },
         {
           "title": "白宫：美国总统特朗普的医药活动很快将恢复正常。",
@@ -1259,8 +1260,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时17分 ~ 20时29分]"
+          "appearance_count": 15,
+          "time_info": "[11时17分 ~ 21时25分]"
         },
         {
           "title": "机器人工业场景加速推进，测量机“卖爆了” 王兴兴现身谈具身智能的“ChatGPT”时刻",
@@ -1494,8 +1495,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时02分 ~ 20时29分]"
+          "appearance_count": 17,
+          "time_info": "[09时02分 ~ 21时25分]"
         },
         {
           "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
@@ -1595,8 +1596,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[06时14分 ~ 20时29分]"
+          "appearance_count": 20,
+          "time_info": "[06时14分 ~ 21时25分]"
         },
         {
           "title": "如何评价 gemini-3-pro-preview-11-2025？",
@@ -1671,7 +1672,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时29分"
         },
@@ -1682,7 +1683,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时29分"
         },
@@ -1693,7 +1694,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时29分"
         }
