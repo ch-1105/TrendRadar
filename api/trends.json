@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-09T19:12:26.325159+08:00",
-  "total_titles_processed": 1052,
+  "generated_at": "2025-11-09T20:25:17.746476+08:00",
+  "total_titles_processed": 1131,
   "failed_sources": [],
   "trends": [
     {
@@ -23,18 +23,6 @@
           "time_info": "[00时15分 ~ 14时26分]"
         },
         {
-          "title": "美国总统特朗普：参议院应将医疗保险资金直接发放给民众。",
-          "url": "https://flash.jin10.com/detail/20251108220636044800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 09时06分]"
-        },
-        {
           "title": "若特朗普“对等关税”被推翻，市场会如何反应？",
           "url": "https://wallstreetcn.com/articles/3758981",
           "source": "华尔街见闻",
@@ -46,8 +34,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时18分 ~ 19时12分]"
+          "appearance_count": 9,
+          "time_info": "[12时18分 ~ 20时25分]"
+        },
+        {
+          "title": "美国总统特朗普：参议院应将医疗保险资金直接发放给民众。",
+          "url": "https://flash.jin10.com/detail/20251108220636044800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 09时06分]"
         },
         {
           "title": "塞尔维亚吵翻了：拆北约轰炸遗址给特朗普家酒店让路",
@@ -74,6 +74,19 @@
           "time_info": "[00时15分 ~ 14时26分]"
         },
         {
+          "title": "拜登狠批特朗普",
+          "url": "https://www.douyin.com/hot/2300132",
+          "source": "抖音",
+          "ranks": [
+            1,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时16分 ~ 20时25分]"
+        },
+        {
           "title": "美国总统特朗普：参议院共和党应该将政府资金提供给众多医疗保险公司。 参议院应当直接将医疗保险资金直接派送给民众。",
           "url": "https://wallstreetcn.com/livenews/3001591",
           "source": "华尔街见闻-快讯",
@@ -96,23 +109,12 @@
           "ranks": [
             5,
             2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时14分 ~ 19时12分]"
-        },
-        {
-          "title": "拜登狠批特朗普",
-          "url": "https://www.douyin.com/hot/2300132",
-          "source": "抖音",
-          "ranks": [
             1,
-            2
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时16分 ~ 19时12分]"
+          "appearance_count": 6,
+          "time_info": "[15时14分 ~ 20时25分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-08）",
@@ -125,6 +127,44 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时16分 ~ 09时06分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-09）",
+          "url": "https://flash.jin10.com/detail/20251109183325380800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时12分 ~ 20时25分]"
+        },
+        {
+          "title": "特朗普疑似在新闻发布会上“打盹”的画面引发热议",
+          "url": "https://flash.jin10.com/detail/20251109181932753800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时12分 ~ 20时25分]"
+        },
+        {
+          "title": "叙利亚领导人沙拉抵美开启访问，将前往白宫会见特朗普",
+          "url": "https://wallstreetcn.com/livenews/3001663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            5,
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时13分 ~ 20时25分]"
         },
         {
           "title": "拜登狠批特朗普",
@@ -152,19 +192,6 @@
           "time_info": "[00时15分 ~ 04时15分]"
         },
         {
-          "title": "叙利亚领导人沙拉抵美开启访问，将前往白宫会见特朗普",
-          "url": "https://wallstreetcn.com/livenews/3001663",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时13分 ~ 19时12分]"
-        },
-        {
           "title": "俄外长：不清楚特朗普的“恢复核试验”是啥意思",
           "url": "https://news.ifeng.com/c/8o8O7HTjrcf",
           "source": "凤凰网",
@@ -174,17 +201,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时26分 ~ 15时14分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-09）",
-          "url": "https://flash.jin10.com/detail/20251109183325380800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时12分"
         },
         {
           "title": "塞尔维亚拆北约轰炸遗址建特朗普酒店",
@@ -215,17 +231,6 @@
           "time_info": "[15时14分 ~ 19时12分]"
         },
         {
-          "title": "特朗普疑似在新闻发布会上“打盹”的画面引发热议",
-          "url": "https://flash.jin10.com/detail/20251109181932753800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时12分"
-        },
-        {
           "title": "媒体：未经立法，特朗普团队秘密向超级富有企业提供大规模税收减免",
           "url": "https://flash.jin10.com/detail/20251109125212911800",
           "source": "金十数据",
@@ -247,8 +252,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 19时12分]"
+          "appearance_count": 3,
+          "time_info": "[18时15分 ~ 20时25分]"
         },
         {
           "title": "若特朗普关税政策被推翻市场如何反应",
@@ -281,7 +286,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -437,8 +442,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 19时12分]"
+          "appearance_count": 3,
+          "time_info": "[18时15分 ~ 20时25分]"
         },
         {
           "title": "左手黄金右手美股就能对冲风险吗？原中金首席风险官李祥林教你用衍生品辨别应对“黑天鹅”",
@@ -463,11 +468,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时13分 ~ 19时12分]"
+          "appearance_count": 4,
+          "time_info": "[17时13分 ~ 20时25分]"
         }
       ]
     },
