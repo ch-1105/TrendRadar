@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T09:04:28.206992+08:00",
-  "total_titles_processed": 784,
+  "generated_at": "2025-11-11T11:10:26.869404+08:00",
+  "total_titles_processed": 942,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 50,
       "titles": [
         {
           "title": "上次访美不愉快？泽连斯基：全世界都怕特朗普，但我不怕他",
@@ -31,8 +31,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 09时04分]"
+          "appearance_count": 13,
+          "time_info": "[00时18分 ~ 11时10分]"
         },
         {
           "title": "因剪辑拼接特朗普视频，BBC高管辞职",
@@ -53,7 +53,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
         },
@@ -126,13 +126,24 @@
           "time_info": "07时15分"
         },
         {
+          "title": "与叙利亚政权领导人在白宫会晤，特朗普晒合影表态(图)",
+          "url": "https://news.ifeng.com/c/8oBhZI0ZGcZ",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
+        },
+        {
           "title": "美国总统特朗普：期待再次与叙利亚总统会面并交谈。一个稳定繁荣的叙利亚对该地区所有国家都至关重要。",
           "url": "https://flash.jin10.com/detail/20251111083643534800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
         },
@@ -333,9 +344,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
+        },
+        {
+          "title": "市场“大事件”：特朗普首次明确“关税返还”具体金额，每人2000美元重现“疫情支票”？",
+          "url": "https://wallstreetcn.com/articles/3759093",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
         },
         {
           "title": "美国总统特朗普要求空中交通控制管理人员立即重返工作岗位。 特朗普在自家社交媒体平台暗示，政府关门期间，空管人员将获得1万美元（“津贴”）。",
@@ -355,7 +377,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
         },
@@ -366,9 +388,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
+        },
+        {
+          "title": "特朗普明年会重启对华贸易战吗",
+          "url": "https://www.toutiao.com/trending/7571253413522968106/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
         },
         {
           "title": "美国总统特朗普的政府官员们表示，最高法院应当暂停对食品救助官司的审理。",
@@ -550,7 +583,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "美政府停摆危机化解在即，美股史诗级逼空行情一触即发？",
@@ -561,8 +594,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 09时04分]"
+          "appearance_count": 13,
+          "time_info": "[00时18分 ~ 11时10分]"
         },
         {
           "title": "一口气看清美股AI泡沫",
@@ -598,9 +631,22 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时04分 ~ 11时10分]"
+        },
+        {
+          "title": "美股收盘：美国政府有望结束停摆 纳指反弹2.3% 英伟达涨超5%",
+          "url": "https://www.cls.cn/detail/2196552",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时14分 ~ 11时10分]"
         },
         {
           "title": "加密货币与加密货币关联指数收跌0.77%，报82.51点，美股盘初呈现出高开低走状态。 周一（11月10日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘涨1.73%，至接近10.6万美元的水平。 CME以太币期货DCR主力合约涨1.86%，报3540美元。 北京时间05:54，现货比特币涨0.82%，以太坊跌1.14%，Solana跌0.34%，狗狗币跌0.39%，XRP涨7.46%。",
@@ -625,18 +671,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时14分 ~ 07时15分]"
-        },
-        {
-          "title": "美股收盘：美国政府有望结束停摆 纳指反弹2.3% 英伟达涨超5%",
-          "url": "https://www.cls.cn/detail/2196552",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时14分 ~ 09时04分]"
         },
         {
           "title": "半导体ETF收涨将近3.1%，领跑美股行业ETF，标普科技板块涨约2.7%",
@@ -698,6 +732,17 @@
           "time_info": "07时15分"
         },
         {
+          "title": "美股存储板块持续火爆：闪迪涨近12%再创新高 目标价迎密集上调",
+          "url": "https://www.cls.cn/detail/2196635",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
+        },
+        {
           "title": "Beyond Meat美股盘后跌8%，该公司四季度销售指引逊色于市场预期。",
           "url": "https://wallstreetcn.com/livenews/3002353",
           "source": "华尔街见闻-快讯",
@@ -718,6 +763,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
+        },
+        {
+          "title": "小鹏汽车港股涨超15%，追随隔夜小鹏汽车美股走势（隔夜涨幅16.15%），市场对其机器人感到乐观。",
+          "url": "https://wallstreetcn.com/livenews/3002456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
         },
         {
           "title": "美股收盘：三大股指齐升 金龙指数涨超2%",
@@ -759,7 +815,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
         },
@@ -850,7 +906,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
         }
@@ -858,7 +914,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "参议员向特朗普政府询问数据中心对电价的影响，谈及OpenAI和甲骨文等",
@@ -893,6 +949,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "OpenAI寻求变现又一招？这次瞄准AI医疗 或开发个人健康助理",
+          "url": "https://www.cls.cn/detail/2196380",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "伊朗货币改革将启动：删除4个0",
+          "url": "https://news.ifeng.com/c/8oAZlJ3VC59",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 07时15分]"
+        },
+        {
+          "title": "美国财政部：暂停（对叙利亚）制裁，但涉及俄罗斯和伊朗的某些交易除外。",
+          "url": "https://flash.jin10.com/detail/20251111020333560800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时21分 ~ 03时13分]"
+        },
+        {
+          "title": "伊朗外交部：与美西方谈判前提是解除制裁",
+          "url": "https://wallstreetcn.com/livenews/3002470",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
         }
       ]
     },
@@ -923,35 +1030,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时14分 ~ 07时15分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "伊朗货币改革将启动：删除4个0",
-          "url": "https://news.ifeng.com/c/8oAZlJ3VC59",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时18分 ~ 07时15分]"
-        },
-        {
-          "title": "美国财政部：暂停（对叙利亚）制裁，但涉及俄罗斯和伊朗的某些交易除外。",
-          "url": "https://flash.jin10.com/detail/20251111020333560800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时21分 ~ 03时13分]"
         }
       ]
     },
