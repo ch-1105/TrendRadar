@@ -1,83 +1,67 @@
 {
-  "generated_at": "2025-11-14T00:18:19.047769+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-11-14T01:16:52.669343+08:00",
+  "total_titles_processed": 395,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美股开盘下跌 连涨势头或将终结",
-          "url": "https://flash.jin10.com/detail/20251113230001158800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "房利美和房地美股价重挫，报道称美国联邦住房金融局局长曾被调查",
-          "url": "https://wallstreetcn.com/livenews/3004257",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "房利美股价下跌12%，至8月8日以来最低水平；房地美跌超10%。",
-          "url": "https://flash.jin10.com/detail/20251113225044627800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "行业ETF美股盘初普遍下跌，半导体ETF跌1.2%，科技行业ETF跌0.7%，全球科技股指数ETF跌0.66%，能源业ETF涨0.6%。",
-          "url": "https://wallstreetcn.com/livenews/3004250",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "金十图示：2025年11月13日（周四）美股热门股票行情一览",
-          "url": "https://flash.jin10.com/detail/20251113223632726800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 3,
+      "match_count": 7,
       "titles": [
         {
           "title": "国际货币基金组织（IMF）因特朗普政府关门事件而推迟与美国的“第四条款磋商”（US Article IV discussions），原定11月进行。 IMF通讯主管Julie Kozack在一次新闻发布会上表示：“数据的缺失最近使我们难以评估美国经济状况，也难以开展第四条款磋商的初步工作。” 尚未确定磋商的新日期，但IMF将与美国当局协商新的时间表。 第四条款磋商是对IMF成员国经济进行的年度审查，通常涵盖货币、财政和其他政策。",
           "url": "https://wallstreetcn.com/livenews/3004279",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 01时16分]"
+        },
+        {
+          "title": "美、布两油短线波动不大，此前有报道称，美国高级官员近日向特朗普提交针对委内瑞拉的军事行动方案。",
+          "url": "https://flash.jin10.com/detail/20251114004309713800",
+          "source": "金十数据",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时18分"
+          "time_info": "01时16分"
+        },
+        {
+          "title": "美国高级官员近日向特朗普提交针对委内瑞拉的军事行动方案",
+          "url": "https://flash.jin10.com/detail/20251114004202602800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时16分"
+        },
+        {
+          "title": "美国官员向特朗普提交了对委内瑞拉的军事选项。",
+          "url": "https://flash.jin10.com/detail/20251114003644519800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时16分"
+        },
+        {
+          "title": "美国农业部长Rollins承认：特朗普咖啡关税（威胁）已经推高（美国市场的咖啡）价格。",
+          "url": "https://wallstreetcn.com/livenews/3004286",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时16分"
         },
         {
           "title": "特朗普首席经济顾问：美国9月就业报告可能下周公布",
@@ -86,7 +70,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
         },
@@ -97,7 +81,79 @@
           "ranks": [
             30
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "美政府重开利好消化，美股低开低走，标普500指数跌超1%，美元走软",
+          "url": "https://wallstreetcn.com/articles/3759298",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时16分"
+        },
+        {
+          "title": "美股开盘下跌 连涨势头或将终结",
+          "url": "https://flash.jin10.com/detail/20251113230001158800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
+        },
+        {
+          "title": "房利美和房地美股价重挫，报道称美国联邦住房金融局局长曾被调查",
+          "url": "https://wallstreetcn.com/livenews/3004257",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
+        },
+        {
+          "title": "房利美股价下跌12%，至8月8日以来最低水平；房地美跌超10%。",
+          "url": "https://flash.jin10.com/detail/20251113225044627800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
+        },
+        {
+          "title": "行业ETF美股盘初普遍下跌，半导体ETF跌1.2%，科技行业ETF跌0.7%，全球科技股指数ETF跌0.66%，能源业ETF涨0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3004250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
+        },
+        {
+          "title": "金十图示：2025年11月13日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251113223632726800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
         }
@@ -112,11 +168,12 @@
           "url": "https://wallstreetcn.com/articles/3759294",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 00时18分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 01时16分]"
         },
         {
           "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
@@ -126,8 +183,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 00时18分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 01时16分]"
         }
       ]
     }
