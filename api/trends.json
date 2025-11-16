@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T17:14:14.466154+08:00",
-  "total_titles_processed": 977,
+  "generated_at": "2025-11-16T18:14:14.213855+08:00",
+  "total_titles_processed": 1031,
   "failed_sources": [],
   "trends": [
     {
@@ -129,11 +129,12 @@
             5,
             6,
             13,
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时20分 ~ 17时14分]"
+          "appearance_count": 5,
+          "time_info": "[14时20分 ~ 18时14分]"
         },
         {
           "title": "特朗普与曾经亲密盟友格林关系破裂，共和党裂痕扩大",
@@ -158,8 +159,19 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时17分 ~ 17时14分]"
+          "appearance_count": 5,
+          "time_info": "[16时17分 ~ 18时14分]"
+        },
+        {
+          "title": "10亿至50亿！特朗普开口了",
+          "url": "https://news.ifeng.com/c/8oKTyan4q6j",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时13分 ~ 18时14分]"
         },
         {
           "title": "特朗普想发2000美元支票 钱从哪来",
@@ -171,17 +183,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时20分 ~ 13时14分]"
-        },
-        {
-          "title": "10亿至50亿！特朗普开口了",
-          "url": "https://news.ifeng.com/c/8oKTyan4q6j",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时13分 ~ 17时14分]"
         },
         {
           "title": "特朗普一个多月购债券逾8千万美元，涉及受益于其政策的行业",
@@ -273,11 +274,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            7
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时17分 ~ 17时14分]"
+          "appearance_count": 3,
+          "time_info": "[16时17分 ~ 18时14分]"
         },
         {
           "title": "伊朗外交部：美军事活动正在威胁国际和平与安全",
@@ -312,11 +314,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             12,
-            19
+            19,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时17分 ~ 17时14分]"
+          "appearance_count": 3,
+          "time_info": "[16时17分 ~ 18时14分]"
         }
       ]
     },
@@ -331,11 +334,12 @@
           "ranks": [
             6,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时14分 ~ 17时14分]"
+          "appearance_count": 22,
+          "time_info": "[00时14分 ~ 18时14分]"
         },
         {
           "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
@@ -365,8 +369,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时14分 ~ 17时14分]"
+          "appearance_count": 22,
+          "time_info": "[00时14分 ~ 18时14分]"
         },
         {
           "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
@@ -396,8 +400,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时14分 ~ 17时14分]"
+          "appearance_count": 22,
+          "time_info": "[00时14分 ~ 18时14分]"
         },
         {
           "title": "巴菲特“退休”前伯克希尔调整巨头押注：Q3加速抛苹果，43亿美元建仓谷歌",
@@ -419,8 +423,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时17分 ~ 17时14分]"
+          "appearance_count": 5,
+          "time_info": "[16时17分 ~ 18时14分]"
         }
       ]
     }
