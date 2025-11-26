@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-26T21:31:31.706368+08:00",
-  "total_titles_processed": 1931,
+  "generated_at": "2025-11-26T22:15:29.324005+08:00",
+  "total_titles_processed": 2011,
   "failed_sources": [],
   "trends": [
     {
@@ -54,8 +54,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[07时13分 ~ 21时31分]"
+          "appearance_count": 20,
+          "time_info": "[07时13分 ~ 22时15分]"
         },
         {
           "title": "特朗普电话后，日本沮丧了三次",
@@ -85,6 +85,18 @@
           "time_info": "[00时19分 ~ 13时15分]"
         },
         {
+          "title": "中方是否请特朗普向高市传口信？外交部回应",
+          "url": "https://news.ifeng.com/c/8ob5EHhrFDx",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时20分 ~ 22时15分]"
+        },
+        {
           "title": "俄乌战争转机来了？特朗普：已“非常接近达成”和平协议，仅剩少数细节！",
           "url": "https://www.cls.cn/detail/2210988",
           "source": "财联社热门",
@@ -98,18 +110,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[11时10分 ~ 17时17分]"
-        },
-        {
-          "title": "中方是否请特朗普向高市传口信？外交部回应",
-          "url": "https://news.ifeng.com/c/8ob5EHhrFDx",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时20分 ~ 21时31分]"
         },
         {
           "title": "美国财长预告：特朗普“极有可能”在1个月内提名新美联储主席",
@@ -190,6 +190,18 @@
           "time_info": "[16时20分 ~ 21时31分]"
         },
         {
+          "title": "特朗普称将派特使赴俄见普京，俄外长：我们不着急",
+          "url": "https://news.ifeng.com/c/8ob5wP7MZv7",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时20分 ~ 22时15分]"
+        },
+        {
           "title": "特朗普电话后 日本沮丧了三次",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%94%B5%E8%AF%9D%E5%90%8E+%E6%97%A5%E6%9C%AC%E6%B2%AE%E4%B8%A7%E4%BA%86%E4%B8%89%E6%AC%A1",
           "source": "百度热搜",
@@ -216,18 +228,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[11时10分 ~ 15时15分]"
-        },
-        {
-          "title": "特朗普称将派特使赴俄见普京，俄外长：我们不着急",
-          "url": "https://news.ifeng.com/c/8ob5wP7MZv7",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时20分 ~ 21时31分]"
         },
         {
           "title": "特朗普电话后日本沮丧了三次",
@@ -334,6 +334,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
+        },
+        {
+          "title": "特朗普一通电话后 高市早苗只有沉默",
+          "url": "https://www.toutiao.com/trending/7576901878579990070/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时29分 ~ 22时15分]"
         },
         {
           "title": "美财长：特朗普明年或将两次访华",
@@ -500,6 +512,18 @@
           "time_info": "[02时22分 ~ 04时16分]"
         },
         {
+          "title": "特朗普先后与中日领导人通话，对日本的“战略冒进”踩下刹车",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32044682",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时29分 ~ 22时15分]"
+        },
+        {
           "title": "特朗普催拍成龙主演电影《尖峰时刻》",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%82%AC%E6%8B%8D%E6%88%90%E9%BE%99%E4%B8%BB%E6%BC%94%E7%94%B5%E5%BD%B1%E3%80%8A%E5%B0%96%E5%B3%B0%E6%97%B6%E5%88%BB%E3%80%8B",
           "source": "百度热搜",
@@ -532,18 +556,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时19分 ~ 01时15分]"
-        },
-        {
-          "title": "特朗普先后与中日领导人通话，对日本的“战略冒进”踩下刹车",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32044682",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时29分 ~ 21时31分]"
         },
         {
           "title": "特朗普：将于明年4月访华",
@@ -613,17 +625,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时17分 ~ 18时17分]"
-        },
-        {
-          "title": "特朗普一通电话后 高市早苗只有沉默",
-          "url": "https://www.toutiao.com/trending/7576901878579990070/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时29分 ~ 21时31分]"
         },
         {
           "title": "日本外相尴尬找补特朗普对日态度",
@@ -959,7 +960,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
@@ -971,8 +972,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时03分 ~ 21时31分]"
+          "appearance_count": 18,
+          "time_info": "[09时03分 ~ 22时15分]"
         },
         {
           "title": "AI芯片开启第二战场：谷歌TPU引爆博通股价 硅谷巨头集体“造铲”",
@@ -1033,8 +1034,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时03分 ~ 21时31分]"
+          "appearance_count": 18,
+          "time_info": "[09时03分 ~ 22时15分]"
         },
         {
           "title": "趁Gemini 3“东风”，“谷歌链”挑战“英伟达链”，颠覆AI交易格局",
@@ -1100,6 +1101,18 @@
           "time_info": "[11时10分 ~ 15时15分]"
         },
         {
+          "title": "一则消息引爆市场，AI竞争格局生变！英伟达盘中重挫7%，谷歌再创新高",
+          "url": "https://wallstreetcn.com/articles/3760114",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时16分 ~ 22时15分]"
+        },
+        {
           "title": "Gemini+TPU双线破局！顶级科技投资人“火上浇油”：七巨头中Alphabet最值得持有",
           "url": "https://www.cls.cn/detail/2211111",
           "source": "财联社热门",
@@ -1113,18 +1126,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[13时14分 ~ 19时13分]"
-        },
-        {
-          "title": "一则消息引爆市场，AI竞争格局生变！英伟达盘中重挫7%，谷歌再创新高",
-          "url": "https://wallstreetcn.com/articles/3760114",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时16分 ~ 21时31分]"
         },
         {
           "title": "英伟达：我们的GPU比谷歌的AI芯片领先一代",
@@ -1212,6 +1213,18 @@
           "time_info": "[17时17分 ~ 18时17分]"
         },
         {
+          "title": "广联达：CONCETTO智能设计产品已接入谷歌Nano Banana Pro",
+          "url": "https://wallstreetcn.com/livenews/3010908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 22时15分]"
+        },
+        {
           "title": "【供货谷歌？中际旭创股价创历史新高，公司回应】11月26日，中际旭创大涨13.25%，报收543.22元/股，成交额达329.8亿元居A股第一，总市值破6000亿元大关，年内涨幅超342%。盘面上，CPO板块集体异动，“易中天”携手走强。有市场消息称，中际旭创是谷歌光模块供应商。中际旭创相关人士表示，公司本次股价上涨受综合因素影响，至于公司的“具体合作包括订单都不方便透露”。（21财经）",
           "url": "https://wallstreetcn.com/livenews/3010775",
           "source": "华尔街见闻-快讯",
@@ -1246,6 +1259,17 @@
           "time_info": "16时20分"
         },
         {
+          "title": "周末私函“逐条”反驳“大空头”，周二发帖“自证”领先谷歌，英伟达有点慌了？",
+          "url": "https://wallstreetcn.com/articles/3760128",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
           "title": "金十整理：谷歌11月狂炸英伟达，巴菲特谢幕押注精准，软银躺枪",
           "url": "https://flash.jin10.com/detail/20251126182610952800",
           "source": "金十数据",
@@ -1255,17 +1279,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
-        },
-        {
-          "title": "广联达：CONCETTO智能设计产品已接入谷歌Nano Banana Pro",
-          "url": "https://wallstreetcn.com/livenews/3010908",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时31分"
         },
         {
           "title": "Gemini 3 发布是否预示着程序员真正可以被替代？",
@@ -1304,7 +1317,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "“矛盾”数据加剧降息分歧，美股指涨跌不一，英伟达跌超5%，原油走低，加密货币跳水",
@@ -1332,6 +1345,17 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时19分 ~ 11时11分]"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3010933",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         },
         {
           "title": "金十图示：2025年11月25日（周二）美股热门股票行情一览（美股收盘）",
@@ -1585,7 +1609,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "“AI投资潮”应刹车？OpenAI联合创始人：规模化到头了，应回归研究！",
@@ -1597,8 +1621,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时17分 ~ 21时31分]"
+          "appearance_count": 5,
+          "time_info": "[18时17分 ~ 22时15分]"
+        },
+        {
+          "title": "美股盘前：OpenAI链概念股反弹，甲骨文涨近6%，英伟达涨近2%，CoreWeave涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3010926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         },
         {
           "title": "OpenAI：法院已经对诉讼有全面的掌握，这很重要。 回应包括Adam精神健康方面的事实。",
@@ -1618,11 +1653,12 @@
           "url": "https://wallstreetcn.com/articles/3760166",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 22时15分]"
         },
         {
           "title": "软银股价较峰值下滑40%，显示市场对OpenAI的担忧",
