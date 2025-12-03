@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T19:14:36.690287+08:00",
-  "total_titles_processed": 1666,
+  "generated_at": "2025-12-03T20:29:43.816902+08:00",
+  "total_titles_processed": 1762,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 95,
+      "match_count": 96,
       "titles": [
         {
           "title": "白宫：特朗普已终止“无休止”援乌",
@@ -41,8 +41,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时04分 ~ 19时14分]"
+          "appearance_count": 14,
+          "time_info": "[09时04分 ~ 20时29分]"
         },
         {
           "title": "特朗普“点名”日本",
@@ -77,8 +77,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时20分 ~ 19时14分]"
+          "appearance_count": 6,
+          "time_info": "[16时20分 ~ 20时29分]"
         },
         {
           "title": "特朗普定档！计划明年初再揭晓美联储新主席人选",
@@ -104,8 +104,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时20分 ~ 19时14分]"
+          "appearance_count": 6,
+          "time_info": "[16时20分 ~ 20时29分]"
         },
         {
           "title": "特朗普点名日本",
@@ -117,8 +117,22 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时20分 ~ 20时29分]"
+        },
+        {
+          "title": "中方回应特朗普签署涉台法案",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E6%B6%89%E5%8F%B0%E6%B3%95%E6%A1%88",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            9,
+            1,
+            2
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[16时20分 ~ 19时14分]"
+          "time_info": "[17时18分 ~ 20时29分]"
         },
         {
           "title": "特朗普“点名”日本",
@@ -127,11 +141,12 @@
           "ranks": [
             23,
             4,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时20分 ~ 19时14分]"
+          "appearance_count": 6,
+          "time_info": "[16时20分 ~ 20时29分]"
         },
         {
           "title": "美国总统特朗普结束在白宫活动上的讲话。",
@@ -165,19 +180,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
-        },
-        {
-          "title": "中方回应特朗普签署涉台法案",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E6%B6%89%E5%8F%B0%E6%B3%95%E6%A1%88",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            9,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时18分 ~ 19时14分]"
         },
         {
           "title": "美国总统特朗普：与巴西总统卢拉的通话很棒，谈到了贸易与制裁的问题。",
@@ -246,6 +248,18 @@
           "time_info": "18时17分"
         },
         {
+          "title": "特朗普签署涉台法案，外交部：敦促美方慎之又慎地处理台湾问题",
+          "url": "https://www.cls.cn/detail/2218308",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时18分 ~ 20时29分]"
+        },
+        {
           "title": "美国农业部长威胁称：要对多个蓝州削减拨款，因为它们在“补充营养援助计划”（SNAP）救济金发放数据上不符合（总统特朗普的）规定。",
           "url": "https://wallstreetcn.com/livenews/3013864",
           "source": "华尔街见闻-快讯",
@@ -258,6 +272,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时23分 ~ 05时15分]"
+        },
+        {
+          "title": "特朗普点名日本",
+          "url": "https://www.douyin.com/hot/2324828",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时18分 ~ 20时29分]"
         },
         {
           "title": "美国总统特朗普：我和马斯克相处得很好。 但我就是不希望只有电动汽车。",
@@ -387,18 +412,6 @@
           "time_info": "[04时18分 ~ 05时15分]"
         },
         {
-          "title": "特朗普签署涉台法案，外交部：敦促美方慎之又慎地处理台湾问题",
-          "url": "https://www.cls.cn/detail/2218308",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时18分 ~ 19时14分]"
-        },
-        {
           "title": "特朗普积极暗示哈塞特为下任美联储主席",
           "url": "https://flash.jin10.com/detail/20251203040443497800",
           "source": "金十数据",
@@ -421,17 +434,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时18分 ~ 05时15分]"
-        },
-        {
-          "title": "特朗普点名日本",
-          "url": "https://www.douyin.com/hot/2324828",
-          "source": "抖音",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时18分 ~ 19时14分]"
         },
         {
           "title": "外交部回应特朗普签法律加深美台联系",
@@ -636,6 +638,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时18分 ~ 05时15分]"
+        },
+        {
+          "title": "特朗普“眼中钉”暂时拔不掉了？德银：鲍威尔卸任美联储主席后或留任理事",
+          "url": "https://www.cls.cn/detail/2218431",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时14分 ~ 20时29分]"
         },
         {
           "title": "美国总统特朗普：美联储主席应该降息。",
@@ -860,17 +874,6 @@
           "time_info": "18时17分"
         },
         {
-          "title": "特朗普“眼中钉”暂时拔不掉了？德银：鲍威尔卸任美联储主席后或留任理事",
-          "url": "https://www.cls.cn/detail/2218431",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时14分"
-        },
-        {
           "title": "特朗普积极暗示哈塞特为下任美联储主席，美国很快将对贩毒集团进行陆地打击，普京威胁切断乌克兰海上通道，亚马逊推出定制AI芯片......美油卖出信号强烈，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
           "url": "https://flash.jin10.com/detail/20251203103110984800",
           "source": "金十数据",
@@ -1020,7 +1023,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -1113,6 +1116,17 @@
           "time_info": "09时05分"
         },
         {
+          "title": "内塔尼亚胡求特朗普：再帮帮忙",
+          "url": "https://www.baidu.com/s?wd=%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E6%B1%82%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%86%8D%E5%B8%AE%E5%B8%AE%E5%BF%99",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
           "title": "首位美籍教皇利奥十四世敦促特朗普政府不要试图通过军事手段推翻委内瑞拉总统马杜罗，利奥十四世表示，如果华盛顿寻求变革，与其采取对抗，不如尝试对话或施加经济压力。",
           "url": "https://flash.jin10.com/detail/20251203003259046800",
           "source": "金十数据",
@@ -1127,7 +1141,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美股涨，数字货币大体收复周一暴跌失地，离岸人民币迈向14个月高位，白银V形反转",
@@ -1138,8 +1152,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时04分 ~ 19时14分]"
+          "appearance_count": 14,
+          "time_info": "[09时04分 ~ 20时29分]"
         },
         {
           "title": "美日政策预期分化，美股指集体高开，金银油回落，加密货币止跌反弹，拍卖需求强劲推高日债",
@@ -1286,6 +1300,17 @@
           "time_info": "00时20分"
         },
         {
+          "title": "梅西百货第三季度总收入49.1亿美元，预期47.5亿美元。 第三季度净销售额47.1亿美元，预估45.6亿美元。 第三季度经调整后每股收益9美分，市场预期每股亏损14美分。 梅西百货预计全财年经调整后每股收益2-2.2美元，此前预计1.7-2.05美元，市场预估1.99美元。 梅西百货预计全财年净销售额214.8-216.3亿美元，此前预计211.5-214.5亿美元。 梅西百货美股盘前涨近3%。",
+          "url": "https://wallstreetcn.com/livenews/3014443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
           "title": "半导体ETF涨超1%，在美股盘初领跑一众行业ETF，科技行业ETF涨超0.9%，全球科技股指数ETF涨超0.6%，网络股指数ETF涨约0.5%，能源业ETF跌超0.5%。",
           "url": "https://wallstreetcn.com/livenews/3013791",
           "source": "华尔街见闻-快讯",
@@ -1322,8 +1347,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时04分 ~ 19时14分]"
+          "appearance_count": 14,
+          "time_info": "[09时04分 ~ 20时29分]"
         },
         {
           "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
@@ -1336,8 +1361,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时23分 ~ 19时14分]"
+          "appearance_count": 11,
+          "time_info": "[12时23分 ~ 20时29分]"
         },
         {
           "title": "谷歌揭秘了AI竞赛的底牌",
@@ -1372,7 +1397,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -1425,7 +1450,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环",
@@ -1446,7 +1471,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -1469,7 +1494,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -1480,7 +1505,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -1491,7 +1516,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -1502,15 +1527,37 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
+        },
+        {
+          "title": "OpenAI：我们已全面恢复营运。 我们未发现任何影响我们系统的问题。",
+          "url": "https://wallstreetcn.com/livenews/3014409",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
+          "title": "OpenAI：目前遭遇-一些问题。 ChatGPT的商务和企业聊天功能遭遇错误；已实施缓解措施和监控复原。",
+          "url": "https://wallstreetcn.com/livenews/3014402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美元指数刷新日低，特朗普“换种方式”介绍哈塞特",
@@ -1546,6 +1593,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时23分 ~ 13时15分]"
+        },
+        {
+          "title": "美元指数DXY跌至98.977，创一个月新低。",
+          "url": "https://flash.jin10.com/detail/20251203194225662800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         },
         {
           "title": "恒天然：12月2日全球乳品贸易（GDT）拍卖价格指数下降4.3%，奶粉各合同期FAS拍卖均价3,507美元/吨。 批发奶粉价格指数下跌2.4%，报3,364美元/吨。",
@@ -1648,8 +1706,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时23分 ~ 19时14分]"
+          "appearance_count": 8,
+          "time_info": "[12时23分 ~ 20时29分]"
         },
         {
           "title": "金十图示：2025年12月03日（周三）上海金早盘价为955.55元/克，较国际金价(959.05元/克)，低3.5元/克",
