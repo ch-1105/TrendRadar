@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T07:14:51.122331+08:00",
-  "total_titles_processed": 699,
+  "generated_at": "2025-12-10T09:07:08.166006+08:00",
+  "total_titles_processed": 851,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 44,
       "titles": [
         {
           "title": "胡锡进：特朗普对H200放行，显然受到了两大压力",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 07时14分]"
+          "appearance_count": 11,
+          "time_info": "[00时54分 ~ 09时07分]"
         },
         {
           "title": "特朗普谈俄乌冲突：现在是泽连斯基“开始接受现实”的时候了",
@@ -37,11 +37,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 07时14分]"
+          "appearance_count": 11,
+          "time_info": "[00时54分 ~ 09时07分]"
         },
         {
           "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
@@ -84,6 +85,30 @@
           "time_info": "[01时27分 ~ 07时14分]"
         },
         {
+          "title": "泰柬冲突再起或惹恼特朗普？泰国首相强硬回应",
+          "url": "https://news.ifeng.com/c/8ox4f6sWwBR",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时19分 ~ 09时07分]"
+        },
+        {
+          "title": "特朗普现在很焦虑",
+          "url": "https://news.ifeng.com/c/8oxjmaqLgB3",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时06分 ~ 09时07分]"
+        },
+        {
           "title": "采访中特朗普突然发飙怒斥记者",
           "url": "https://www.baidu.com/s?wd=%E9%87%87%E8%AE%BF%E4%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E7%AA%81%E7%84%B6%E5%8F%91%E9%A3%99%E6%80%92%E6%96%A5%E8%AE%B0%E8%80%85",
           "source": "百度热搜",
@@ -100,16 +125,15 @@
           "time_info": "[00时54分 ~ 07时14分]"
         },
         {
-          "title": "泰柬冲突再起或惹恼特朗普？泰国首相强硬回应",
-          "url": "https://news.ifeng.com/c/8ox4f6sWwBR",
-          "source": "凤凰网",
+          "title": "特朗普：泽连斯基要开始接受现实了",
+          "url": "https://www.toutiao.com/trending/7581295755181424686/",
+          "source": "今日头条",
           "ranks": [
-            9,
-            10
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时19分 ~ 07时14分]"
+          "appearance_count": 2,
+          "time_info": "[09时06分 ~ 09时07分]"
         },
         {
           "title": "特朗普政府宣布终止拜登时代的学生贷款偿还计划",
@@ -118,9 +142,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "美国总统特朗普指责拜登使用自动签名笔签署一些联邦政府任命文件，包括鲍威尔的任命，“将对此进行调查”。",
+          "url": "https://flash.jin10.com/detail/20251210090211187800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时07分"
         },
         {
           "title": "泽连斯基回应特朗普：乌方愿举行选举",
@@ -135,13 +170,35 @@
           "time_info": "[00时54分 ~ 03时29分]"
         },
         {
+          "title": "日本央行行长植田和男称，美国经济经受住了特朗普关税的考验。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3017988",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时07分"
+        },
+        {
+          "title": "美国总统特朗普：我听说自动签名笔可能已经签署了对美联储理事会中一些民主党人的任命。",
+          "url": "https://flash.jin10.com/detail/20251210090040529800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时07分"
+        },
+        {
           "title": "美国总统特朗普：支持奥巴马医保补贴立法草案这个概念。 我喜欢资金流向民众、而不要流向保险行业这个想法。",
           "url": "https://wallstreetcn.com/livenews/3017926",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
         },
@@ -260,9 +317,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "美国总统特朗普：我们现在的石油开采量比以往任何时候都多。近期有报道称，四个州的油价已经降到每加仑1.99美元。",
+          "url": "https://flash.jin10.com/detail/20251210085429523800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时07分"
         },
         {
           "title": "美国总统特朗普：我们将为美联储主席的人选考虑两个（couple of）人选。 我非常清楚自己想要谁主持美联储。",
@@ -271,7 +339,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
         },
@@ -282,9 +350,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "美国总统特朗普：政府拯救了美国钢铁公司 ，这家现在由日本制铁公司拥有的公司“炙手可热”。",
+          "url": "https://flash.jin10.com/detail/20251210084356101800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时07分"
+        },
+        {
+          "title": "特朗普在宾夕法尼亚活动上称：我们有一个糟糕的美联储主席。将在美联储中进行大调整。",
+          "url": "https://wallstreetcn.com/livenews/3017980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时07分"
         },
         {
           "title": "美国总统特朗普：将与“几位”美联储主席人选会面。",
@@ -293,9 +383,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "美国总统特朗普：风能是最差、最昂贵的能源。",
+          "url": "https://flash.jin10.com/detail/20251210084335049800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时07分"
+        },
+        {
+          "title": "特朗普：我最喜欢的词是关税。",
+          "url": "https://flash.jin10.com/detail/20251210084113564800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时07分"
         },
         {
           "title": "特朗普放话：降息将是新任美联储主席的试金石",
@@ -337,9 +449,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "美国总统特朗普：股票市场和401(k)正在上涨，但对物价水平存在误解；实际上，价格正在大幅下跌。",
+          "url": "https://flash.jin10.com/detail/20251210083231703800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时07分"
         },
         {
           "title": "美国贸易代表格里尔：美国总统特朗普政府已明确告知南非，如果南非希望改善关税待遇，就必须解决贸易壁垒问题。",
@@ -348,9 +471,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "美国总统特朗普：我们现在的重点必须放在赢得中期选举上。",
+          "url": "https://flash.jin10.com/detail/20251210083007668800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时07分"
         },
         {
           "title": "以色列议会议长阿米尔·奥哈纳和美国众议院议长约翰逊共同发起了一项全球议会倡议，提名特朗普角逐2026年诺贝尔和平奖。",
@@ -392,6 +526,19 @@
       "match_count": 13,
       "titles": [
         {
+          "title": "英伟达盘前冲高2%后回落 美股三大期指涨跌不一 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2224567",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时54分 ~ 09时07分]"
+        },
+        {
           "title": "美利率决议前市场谨慎，劳动力数据提振美股上涨，现货白银突破60美元创新高，加密货币转涨",
           "url": "https://wallstreetcn.com/articles/3760999",
           "source": "华尔街见闻",
@@ -403,18 +550,6 @@
           "time_info": "[00时54分 ~ 04时19分]"
         },
         {
-          "title": "英伟达盘前冲高2%后回落 美股三大期指涨跌不一 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2224567",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 07时14分]"
-        },
-        {
           "title": "金十图示：2025年12月09日（周二）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251210050514464800",
           "source": "金十数据",
@@ -424,6 +559,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 摩根大通成本预警施压大盘",
+          "url": "https://www.cls.cn/detail/2224722",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时14分 ~ 09时07分]"
         },
         {
           "title": "美股七巨头收盘播报｜周二（12月9日），美国科技股七巨头（Magnificent 7）指数涨0.11%，报208.56点。 “超大”市值科技股指数涨0.37%，报406.51点，低开后美股早盘持续收复失地并转涨，日内大部分时间高位窄幅震荡。",
@@ -495,17 +642,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时15分 ~ 07时14分]"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一 摩根大通成本预警施压大盘",
-          "url": "https://www.cls.cn/detail/2224722",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时14分"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 摩根大通跌近5%",
@@ -652,8 +788,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "Gemini 3赢了下载却输了习惯？ChatGPT仍垄断90%移动端会话，日均打开超8次",
+          "url": "https://wallstreetcn.com/articles/3760995",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时06分 ~ 09时07分]"
+        },
         {
           "title": "谷歌云：推出由Gemini驱动的编码智能体AlphaEvolve，可用于设计高级算法，现已开启私密预览。",
           "url": "https://wallstreetcn.com/livenews/3017850",
@@ -684,7 +831,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
         },
@@ -703,7 +850,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
@@ -715,6 +862,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时54分 ~ 07时14分]"
+        },
+        {
+          "title": "美利率决议前摩根大通拖累美股，盘中美债转跌、加密货币拉升，白银首次突破60美元",
+          "url": "https://wallstreetcn.com/articles/3760999",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时06分 ~ 09时07分]"
         },
         {
           "title": "美债价格在美国职位空缺数据发布后显著下挫",
