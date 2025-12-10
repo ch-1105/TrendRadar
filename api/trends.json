@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T11:18:48.947138+08:00",
-  "total_titles_processed": 1008,
+  "generated_at": "2025-12-10T12:28:56.450676+08:00",
+  "total_titles_processed": 1119,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 47,
       "titles": [
         {
           "title": "胡锡进：特朗普对H200放行，显然受到了两大压力",
@@ -38,11 +38,12 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时54分 ~ 11时18分]"
+          "appearance_count": 13,
+          "time_info": "[00时54分 ~ 12时28分]"
         },
         {
           "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
@@ -58,6 +59,17 @@
           "time_info": "[00时54分 ~ 07时14分]"
         },
         {
+          "title": "特朗普现在很焦虑",
+          "url": "https://news.ifeng.com/c/8oxjmaqLgB3",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时06分 ~ 12时28分]"
+        },
+        {
           "title": "特朗普宣布向农民发放百亿援助大礼包 或仍难挡美国农业继续下滑",
           "url": "https://www.cls.cn/detail/2224247",
           "source": "财联社热门",
@@ -68,17 +80,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时54分 ~ 07时14分]"
-        },
-        {
-          "title": "特朗普现在很焦虑",
-          "url": "https://news.ifeng.com/c/8oxjmaqLgB3",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时06分 ~ 11时18分]"
         },
         {
           "title": "美国总统特朗普宣布，允许英伟达向中国出售 H200 芯片，此举意味着什么？",
@@ -164,7 +165,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
         },
@@ -179,6 +180,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时54分 ~ 03时29分]"
+        },
+        {
+          "title": "特朗普发长文回击：自诩政绩空前，晒“满分”健康报告，斥责《纽约时报》为“人民公敌”",
+          "url": "https://flash.jin10.com/detail/20251210121528240800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时28分"
         },
         {
           "title": "日本央行行长植田和男称，美国经济经受住了特朗普关税的考验。（英国金融时报）",
@@ -520,6 +532,17 @@
           "time_info": "05时16分"
         },
         {
+          "title": "美国企业界对特朗普执政表现评价不高",
+          "url": "https://www.toutiao.com/trending/7581666417361092614/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时28分"
+        },
+        {
           "title": "英媒：特朗普“施压”泽连斯基几日内回应和平提议 盼圣诞前达成协议",
           "url": "https://flash.jin10.com/detail/20251210022230589800",
           "source": "金十数据",
@@ -570,8 +593,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时14分 ~ 11时18分]"
+          "appearance_count": 5,
+          "time_info": "[07时14分 ~ 12时28分]"
         },
         {
           "title": "金十图示：2025年12月09日（周二）热门中概股行情一览（美股收盘）",
@@ -807,11 +830,12 @@
           "url": "https://wallstreetcn.com/articles/3760995",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时06分 ~ 11时18分]"
+          "appearance_count": 4,
+          "time_info": "[09时06分 ~ 12时28分]"
         },
         {
           "title": "谷歌云：推出由Gemini驱动的编码智能体AlphaEvolve，可用于设计高级算法，现已开启私密预览。",
@@ -883,8 +907,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时06分 ~ 11时18分]"
+          "appearance_count": 4,
+          "time_info": "[09时06分 ~ 12时28分]"
         },
         {
           "title": "美债价格在美国职位空缺数据发布后显著下挫",
@@ -959,6 +983,23 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时54分 ~ 06时15分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2025年12月10日（周三）上海金早盘价为953.31元/克，较国际金价(956.52元/克)，低3.21元/克",
+          "url": "https://flash.jin10.com/detail/20251210111107526800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时28分"
         }
       ]
     }
