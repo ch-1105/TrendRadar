@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T14:24:29.186876+08:00",
-  "total_titles_processed": 1129,
+  "generated_at": "2025-12-23T15:19:59.138172+08:00",
+  "total_titles_processed": 1215,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 67,
+      "match_count": 68,
       "titles": [
         {
           "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
@@ -50,8 +50,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时22分 ~ 14时24分]"
+          "appearance_count": 5,
+          "time_info": "[11时22分 ~ 15时19分]"
         },
         {
           "title": "特朗普将建特朗普级新型战舰",
@@ -62,8 +62,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时22分 ~ 14时24分]"
+          "appearance_count": 5,
+          "time_info": "[11时22分 ~ 15时19分]"
         },
         {
           "title": "美国总统特朗普：我们将讨论生产计划，这些生产计划太慢了。",
@@ -86,6 +86,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
+        },
+        {
+          "title": "特朗普叫停美国最大海上风电项目",
+          "url": "https://news.ifeng.com/c/8pJPGPs1kBK",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时22分 ~ 15时19分]"
         },
         {
           "title": "美国总统特朗普：我们将与运营海军船厂的一些公司进行谈判。",
@@ -132,6 +143,17 @@
           "time_info": "07时26分"
         },
         {
+          "title": "特朗普：美国需要格陵兰岛不是为了关键矿产",
+          "url": "https://news.ifeng.com/c/8pJISSb6yhX",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时22分 ~ 15时19分]"
+        },
+        {
           "title": "美国总统特朗普：希望让14家大型医疗保险公司降费。 我们将会见其他保险公司。 汽车、住房的保费都已经上涨。",
           "url": "https://wallstreetcn.com/livenews/3025174",
           "source": "华尔街见闻-快讯",
@@ -154,15 +176,46 @@
           "time_info": "06时28分"
         },
         {
-          "title": "特朗普叫停美国最大海上风电项目",
-          "url": "https://news.ifeng.com/c/8pJPGPs1kBK",
-          "source": "凤凰网",
+          "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
+          "url": "https://www.toutiao.com/trending/7586636403350556196/",
+          "source": "今日头条",
           "ranks": [
-            6
+            7,
+            10,
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时22分 ~ 14时24分]"
+          "appearance_count": 5,
+          "time_info": "[11时22分 ~ 15时19分]"
+        },
+        {
+          "title": "美新型战舰被命名为特朗普级你咋看",
+          "url": "https://www.toutiao.com/trending/7586859203608772635/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            8,
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时22分 ~ 15时19分]"
+        },
+        {
+          "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
+          "url": "https://www.baidu.com/s?wd=%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E6%96%87%E4%BB%B6%E6%81%A2%E5%A4%8D+%E7%89%B9%E6%9C%97%E6%99%AE%E5%87%BA%E9%95%9C%E4%B8%A4%E6%AC%A1",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            15,
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时22分 ~ 15时19分]"
         },
         {
           "title": "美国联邦贸易委员会（FTC）：为响应美国总统特朗普的人工智能行动计划，已重新启动并搁置对Rytr的最终命令。",
@@ -189,17 +242,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时23分 ~ 05时25分]"
-        },
-        {
-          "title": "特朗普：美国需要格陵兰岛不是为了关键矿产",
-          "url": "https://news.ifeng.com/c/8pJISSb6yhX",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时22分 ~ 14时24分]"
         },
         {
           "title": "特朗普可能会在1月第一周任命新的美联储主席。 （CNBC）",
@@ -288,19 +330,6 @@
           "time_info": "[01时25分 ~ 02时40分]"
         },
         {
-          "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
-          "url": "https://www.toutiao.com/trending/7586636403350556196/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时22分 ~ 14时24分]"
-        },
-        {
           "title": "美国民主党主导的各州提起诉讼，以阻止特朗普政府削减消费者金融保护局的经费。",
           "url": "https://flash.jin10.com/detail/20251223045540973800",
           "source": "金十数据",
@@ -313,30 +342,18 @@
           "time_info": "[05时25分 ~ 06时28分]"
         },
         {
-          "title": "美新型战舰被命名为特朗普级你咋看",
-          "url": "https://www.toutiao.com/trending/7586859203608772635/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            8,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时22分 ~ 14时24分]"
-        },
-        {
-          "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
-          "url": "https://www.baidu.com/s?wd=%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E6%96%87%E4%BB%B6%E6%81%A2%E5%A4%8D+%E7%89%B9%E6%9C%97%E6%99%AE%E5%87%BA%E9%95%9C%E4%B8%A4%E6%AC%A1",
+          "title": "特朗普提出中美G2概念 日本不安",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E5%87%BA%E4%B8%AD%E7%BE%8EG2%E6%A6%82%E5%BF%B5+%E6%97%A5%E6%9C%AC%E4%B8%8D%E5%AE%89",
           "source": "百度热搜",
           "ranks": [
-            10,
-            15,
-            18
+            29,
+            24,
+            19,
+            22
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时22分 ~ 14时24分]"
+          "time_info": "[12时33分 ~ 15时19分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：与特朗普的会谈将聚焦加沙和黎巴嫩问题。",
@@ -352,17 +369,16 @@
           "time_info": "[02时40分 ~ 04时31分]"
         },
         {
-          "title": "特朗普提出中美G2概念 日本不安",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E5%87%BA%E4%B8%AD%E7%BE%8EG2%E6%A6%82%E5%BF%B5+%E6%97%A5%E6%9C%AC%E4%B8%8D%E5%AE%89",
+          "title": "特朗普：美国“必须得到格陵兰岛”",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E2%80%9C%E5%BF%85%E9%A1%BB%E5%BE%97%E5%88%B0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            29,
-            24,
-            19
+            26,
+            24
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时33分 ~ 14时24分]"
+          "time_info": "[13时19分 ~ 15时19分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：将与美国总统特朗普讨论伊朗的核活动。",
@@ -387,18 +403,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时33分 ~ 13时19分]"
-        },
-        {
-          "title": "特朗普：美国“必须得到格陵兰岛”",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E2%80%9C%E5%BF%85%E9%A1%BB%E5%BE%97%E5%88%B0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 14时24分]"
         },
         {
           "title": "美国总统特朗普：我们需要格陵兰岛，并非是为了矿产或石油，而是出于安全考虑。",
@@ -610,6 +614,17 @@
           "time_info": "11时22分"
         },
         {
+          "title": "“特朗普级”战列舰性能如何",
+          "url": "https://www.toutiao.com/trending/7586915482419072538/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
           "title": "克里姆林宫：俄罗斯需要弄清楚美国与乌克兰及欧洲就和平计划开展的合作，在多大程度上符合此前普京与特朗普在阿拉斯加峰会所体现的精神。",
           "url": "https://flash.jin10.com/detail/20251223053857430800",
           "source": "金十数据",
@@ -792,6 +807,18 @@
           "time_info": "[00时35分 ~ 05时25分]"
         },
         {
+          "title": "美股收盘：三大指数连涨三日 AI概念走强美光升超4%",
+          "url": "https://www.cls.cn/detail/2237037",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时26分 ~ 15时19分]"
+        },
+        {
           "title": "“圣诞老人行情”开启，美股普涨，黄金白银再创新高，原油大反弹",
           "url": "https://wallstreetcn.com/articles/3761821",
           "source": "华尔街见闻",
@@ -801,18 +828,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时27分 ~ 07时26分]"
-        },
-        {
-          "title": "美股收盘：三大指数连涨三日 AI概念走强美光升超4%",
-          "url": "https://www.cls.cn/detail/2237037",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时26分 ~ 14时24分]"
         },
         {
           "title": "金十图示：2025年12月22日（周一）美股热门股票行情一览（美股收盘）",
@@ -1053,22 +1068,24 @@
             8,
             7,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时25分 ~ 14时24分]"
+          "appearance_count": 15,
+          "time_info": "[01时25分 ~ 15时19分]"
         },
         {
           "title": "尼日利亚与谷歌就新海底电缆进行深入谈判。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3025398",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时24分 ~ 15时19分]"
         },
         {
           "title": "第一太阳能涨7.1%，创2024年6月份以来盘中新高，投资者关注谷歌母公司Alphabet达成的清洁能源交易。",
@@ -1135,9 +1152,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时24分 ~ 15时19分]"
         },
         {
           "title": "金价大涨的背后原因是什么",
