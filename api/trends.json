@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-28T09:51:01.240205+08:00",
-  "total_titles_processed": 809,
+  "generated_at": "2026-07-28T12:58:52.154457+08:00",
+  "total_titles_processed": 984,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 09时51分]"
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 12时58分]"
         },
         {
           "title": "特朗普向伊朗发出最后通牒",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 09时51分]"
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 12时58分]"
         },
         {
           "title": "五角大楼被曝对乌援助要拖到特朗普卸任年",
@@ -104,8 +104,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 09时51分]"
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 12时58分]"
+        },
+        {
+          "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33670163",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 12时58分]"
         },
         {
           "title": "据纽约邮报：以色列总理内塔尼亚胡将向美国总统特朗普提供伊朗“镐山”核设施情报。",
@@ -130,17 +141,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时59分 ~ 07时01分]"
-        },
-        {
-          "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33670163",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 09时51分]"
         },
         {
           "title": "美国总统特朗普：伊朗正在乞求美国解除封锁。",
@@ -248,7 +248,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -559,22 +559,22 @@
           "time_info": "[00时13分 ~ 07时01分]"
         },
         {
-          "title": "乌克兰袭船还回嘴：伊朗没资格“装”受害者",
-          "url": "https://news.ifeng.com/c/8v6sTHp3nlX",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 09时51分]"
-        },
-        {
           "title": "泽连斯基：与伊朗已处于战争中",
           "url": "https://news.ifeng.com/c/8v7aKFz8e8a",
           "source": "凤凰网",
           "ranks": [
             12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 12时58分]"
+        },
+        {
+          "title": "乌克兰袭船还回嘴：伊朗没资格“装”受害者",
+          "url": "https://news.ifeng.com/c/8v6sTHp3nlX",
+          "source": "凤凰网",
+          "ranks": [
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -727,7 +727,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "美股",
@@ -755,6 +755,18 @@
           "time_info": "[00时13分 ~ 04时16分]"
         },
         {
+          "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
+          "url": "https://wallstreetcn.com/articles/3778058",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 12时58分]"
+        },
+        {
           "title": "美伊暂停交火提振市场情绪 美股期指上涨 油价大幅回落 | 今夜看点",
           "url": "https://www.cls.cn/detail/2438191",
           "source": "财联社热门",
@@ -768,6 +780,19 @@
           "time_info": "[00时13分 ~ 09时51分]"
         },
         {
+          "title": "美股收盘：阿斯麦、英伟达领衔“芯片风暴” 苹果重返全球市值第一",
+          "url": "https://www.cls.cn/detail/2438385",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时01分 ~ 12时58分]"
+        },
+        {
           "title": "美国中期选举进入百日倒计时！高盛：美股8月起将逐步感受冲击",
           "url": "https://www.cls.cn/detail/2438003",
           "source": "财联社热门",
@@ -779,17 +804,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时13分 ~ 09时51分]"
-        },
-        {
-          "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
-          "url": "https://wallstreetcn.com/articles/3778058",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 09时51分]"
         },
         {
           "title": "LVMH集团（路易威登母公司）二季度时装与皮草有机销售增长1%，分析师预期增长1.52%。 二季度有机营收增长3%，分析师预期增长2.32%。 二季度红酒与烈酒有机销售增长5%，分析师预期下滑1.94%。 该公司ADR美股盘中涨幅2.7%。",
@@ -825,16 +839,15 @@
           "time_info": "05时59分"
         },
         {
-          "title": "美股收盘：阿斯麦、英伟达领衔“芯片风暴” 苹果重返全球市值第一",
-          "url": "https://www.cls.cn/detail/2438385",
+          "title": "一文读懂：美股“芯片风暴”究竟是如何发生的？",
+          "url": "https://www.cls.cn/detail/2438605",
           "source": "财联社热门",
           "ranks": [
-            8,
-            5
+            4
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时01分 ~ 09时51分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
         },
         {
           "title": "周一（7月27日）纽约尾盘，彭博电动汽车价格回报指数涨1.56%，报3280.64点。 指数全天处于上涨状态，亚太时段持续走高，美股盘初刷新日高至3290.35点。 成分股中，小米集团H股收涨7.34%，禾赛科技ADR目前涨5.6%，文远知行ADR涨5.2%，Lucid集团涨5%，特斯拉劲敌Rivian涨4.8%，地平线H股收涨4.52%，特斯拉目前跌1.4%表现倒数第三，意法半导体法国巴黎股价收跌1.88%，淡水河谷印尼公司收跌2.05%。",
@@ -853,11 +866,12 @@
           "url": "https://www.cls.cn/detail/2438430",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 09时51分]"
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 12时58分]"
         },
         {
           "title": "美股芯片股“血流成河”",
@@ -1004,11 +1018,12 @@
           "ranks": [
             12,
             15,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 09时51分]"
+          "appearance_count": 8,
+          "time_info": "[00时13分 ~ 12时58分]"
         },
         {
           "title": "英媒：英伟达押注OpenAI联合创始人的AI项目 投资50亿美元",
@@ -1094,11 +1109,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356554&amp;topic_name=%E7%9C%9F%E9%80%97%2CDeepSeek%E8%AF%B4%E8%A6%81%E5%8E%BB%E5%90%83%E9%A5%AD",
           "source": "贴吧",
           "ranks": [
-            1
+            1,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时20分 ~ 09时51分]"
+          "appearance_count": 7,
+          "time_info": "[02时20分 ~ 12时58分]"
         },
         {
           "title": "DeepSeek说他先去吃饭了",
