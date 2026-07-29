@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-29T21:51:07.101795+08:00",
-  "total_titles_processed": 1389,
+  "generated_at": "2026-07-29T23:46:34.249136+08:00",
+  "total_titles_processed": 1513,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 52,
+      "match_count": 54,
       "titles": [
         {
           "title": "美暂停打击伊朗的军事行动，是因为美军被打疼了？",
@@ -38,8 +38,21 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时53分 ~ 23时46分]"
+        },
+        {
+          "title": "对伊朗军事行动以来，美以领导人首次会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33678142",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            14
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[09时53分 ~ 21时51分]"
+          "time_info": "[13时15分 ~ 23时46分]"
         },
         {
           "title": "用伊朗逻辑打伊朗商船！乌克兰出手，中东战火恐延烧至里海",
@@ -88,18 +101,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时21分 ~ 06时11分]"
-        },
-        {
-          "title": "对伊朗军事行动以来，美以领导人首次会晤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33678142",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时15分 ~ 21时51分]"
         },
         {
           "title": "以色列与阿联酋秘密会晤协调应对伊朗",
@@ -198,11 +199,12 @@
           "url": "https://wallstreetcn.com/articles/3778174",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时50分 ~ 21时51分]"
+          "appearance_count": 3,
+          "time_info": "[21时50分 ~ 23时46分]"
         },
         {
           "title": "“敌方发射物”击中伊朗西阿塞拜疆省。（法尔斯通讯社）",
@@ -425,6 +427,17 @@
           "time_info": "03时13分"
         },
         {
+          "title": "美国财政部：今日伊朗制裁针对借助霍尔木兹海峡牟利的行为。 制裁目标指向伊朗的霍尔木兹海峡“勒索网络”。",
+          "url": "https://wallstreetcn.com/livenews/3141774",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
           "title": "市场消息：伊朗外交部长与乌克兰外长通电话。",
           "url": "https://flash.jin10.com/detail/20260729010151022800",
           "source": "金十数据",
@@ -524,6 +537,17 @@
           "time_info": "01时21分"
         },
         {
+          "title": "据以色列i24News：以色列高级官员称伊朗的“镐山”存在离心机，但尚未开始铀浓缩活动。",
+          "url": "https://flash.jin10.com/detail/20260729230540437800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
           "title": "伊朗副外长：伊朗将考虑采取“任何行动”以维持对霍尔木兹海峡的控制",
           "url": "https://flash.jin10.com/detail/20260729005746292800",
           "source": "金十数据",
@@ -552,7 +576,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时51分"
         },
@@ -593,7 +617,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 36,
       "titles": [
         {
           "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
@@ -607,6 +631,20 @@
           "time_info": "[01时21分 ~ 06时11分]"
         },
         {
+          "title": "明查｜特朗普的替身出现了？先把视频暂停一下",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33674010",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            11,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时25分 ~ 23时46分]"
+        },
+        {
           "title": "以色列发言人：在美国总统特朗普与以色列总理内塔尼亚胡的会晤中未讨论土耳其和F-35问题。",
           "url": "https://flash.jin10.com/detail/20260729011422656800",
           "source": "金十数据",
@@ -616,6 +654,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "据以色列第12频道：一位高级政治官员表示，关于伊朗的决定在特朗普手中。一切都有可能，从达成协议到进行重大打击。伊朗知道，如果受到攻击，以色列会强力回应。穆杰塔巴绝对还活着。伊朗目前拥有大约1500枚弹道导弹。",
+          "url": "https://flash.jin10.com/detail/20260729232508026800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
           "title": "以色列总理内塔尼亚胡：我和特朗普都致力于实现目标。 对与伊朗的协议持怀疑态度。 如果遭到攻击将强力回击。",
@@ -657,7 +706,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时51分"
         },
@@ -696,6 +745,17 @@
           "time_info": "[13时15分 ~ 16时26分]"
         },
         {
+          "title": "布油大涨7%！特朗普警告：将对伊朗“大力打击”",
+          "url": "https://wallstreetcn.com/articles/3778237",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
           "title": "特朗普称与内塔尼亚胡和泽连斯基分别讨论多项重要议题",
           "url": "https://wallstreetcn.com/livenews/3141331",
           "source": "华尔街见闻-快讯",
@@ -707,17 +767,16 @@
           "time_info": "09时53分"
         },
         {
-          "title": "明查｜特朗普的替身出现了？先把视频暂停一下",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33674010",
-          "source": "澎湃新闻",
+          "title": "特朗普称美国将强力打击伊朗 中东局势升级推动国际油价大幅飙升",
+          "url": "https://www.cls.cn/detail/2440511",
+          "source": "财联社热门",
           "ranks": [
-            13,
-            11,
-            9
+            12,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时25分 ~ 21时51分]"
+          "appearance_count": 3,
+          "time_info": "[21时50分 ~ 23时46分]"
         },
         {
           "title": "伊朗否认特朗普的说法，称：并没有在过去16-17天内寻求与美国对话",
@@ -732,6 +791,17 @@
           "time_info": "[01时21分 ~ 03时13分]"
         },
         {
+          "title": "卢拉讽刺特朗普：每个巴西公民都能享有总统同等医疗待遇",
+          "url": "https://v.ifeng.com/c/8v9pAhXFNg6",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时16分 ~ 23时46分]"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：美国驻公投特朗普与以色列总理、乌克兰总统的会谈偏正面，富有成效。",
           "url": "https://wallstreetcn.com/livenews/3141129",
           "source": "华尔街见闻-快讯",
@@ -744,17 +814,6 @@
           "time_info": "[01时21分 ~ 03时13分]"
         },
         {
-          "title": "卢拉讽刺特朗普：每个巴西公民都能享有总统同等医疗待遇",
-          "url": "https://v.ifeng.com/c/8v9pAhXFNg6",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时16分 ~ 21时51分]"
-        },
-        {
           "title": "特朗普被发现在格雷厄姆葬礼打瞌睡，白宫：他在缅怀",
           "url": "https://v.ifeng.com/c/8v8ALtYnwhG",
           "source": "凤凰网",
@@ -762,8 +821,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时16分 ~ 21时51分]"
+          "appearance_count": 4,
+          "time_info": "[19时16分 ~ 23时46分]"
         },
         {
           "title": "内塔尼亚胡访美，向特朗普提出对伊“终极条件”",
@@ -776,17 +835,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时53分 ~ 13时15分]"
-        },
-        {
-          "title": "特朗普称美国将强力打击伊朗 中东局势升级推动国际油价大幅飙升",
-          "url": "https://www.cls.cn/detail/2440511",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时50分 ~ 21时51分]"
         },
         {
           "title": "国际油价急涨5%！特朗普按下冲突“暂停键”后 伊朗首袭驻中东美军",
@@ -818,9 +866,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时51分"
+        },
+        {
+          "title": "据以色列第12频道：一名以色列官员表示，针对伊朗的打击决定掌握在特朗普手中，以色列在等待他的决定。",
+          "url": "https://flash.jin10.com/detail/20260729231723454800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
           "title": "以色列总理内塔尼亚胡：我们的目标与特朗普一致，就是不让伊朗获得核武器。",
@@ -832,6 +891,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
+        },
+        {
+          "title": "WTI原油日内涨幅达7.5%，报85.22美元/桶；布伦特原油日内涨幅达7.0%，报87.83美元/桶。 现货白银日内跌幅达0.5%，报56.79美元/盎司。 美国特朗普宣称，在伊朗向美军发动导弹袭击后，美国将进行报复，美国将“狠狠打击”伊朗，伊朗将遭到“痛击”。",
+          "url": "https://wallstreetcn.com/livenews/3141781",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
           "title": "特朗普：美墨加协定续不续签“无所谓”",
@@ -862,7 +932,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时51分"
         },
@@ -876,6 +946,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
+        },
+        {
+          "title": "又吃糖又犯困，特朗普在美政客葬礼现场小动作惹争议，白宫：他在缅怀",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33682760",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
           "title": "据以色列第12频道：一名以色列高级官员称，内塔尼亚胡已向特朗普确认，对于那些已经重新修复的伊朗核设施，“追加打击是不可避免的”。",
@@ -939,7 +1020,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时51分"
         }
@@ -947,7 +1028,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "康宁美股盘前暴跌15%！Q2营收利润双超预期，但Q3收入指引不够“惊喜”| 财报见闻",
@@ -964,6 +1045,19 @@
           "time_info": "[01时21分 ~ 19时16分]"
         },
         {
+          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3778080",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时53分 ~ 23时46分]"
+        },
+        {
           "title": "美股期指走势分化 芯片股继续下挫 道指期货涨近1% | 今夜看点",
           "url": "https://www.cls.cn/detail/2439316",
           "source": "财联社热门",
@@ -975,19 +1069,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时21分 ~ 09时53分]"
-        },
-        {
-          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
-          "url": "https://wallstreetcn.com/articles/3778080",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时53分 ~ 21时51分]"
         },
         {
           "title": "美股半导体崩盘,闪迪跌破新低",
@@ -1052,6 +1133,17 @@
           "time_info": "[21时50分 ~ 21时51分]"
         },
         {
+          "title": "FOMC和巨头财报在即，特朗普称将对伊朗进行打击，美股指跌幅扩大，道指跌超1.5%，布油涨超6%",
+          "url": "https://wallstreetcn.com/articles/3778176",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
           "title": "美股股指期货持续走低，纳斯达克100指数期货跌超1%，标普500指数期货跌0.35%，道琼斯指数期货跌0.24%。",
           "url": "https://wallstreetcn.com/livenews/3141455",
           "source": "华尔街见闻-快讯",
@@ -1069,7 +1161,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时51分"
         },
@@ -1128,8 +1220,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时50分 ~ 21时51分]"
+          "appearance_count": 3,
+          "time_info": "[21时50分 ~ 23时46分]"
         },
         {
           "title": "希捷科技第四财季营收36.5亿美元，分析师预期34.9亿美元。 第四财季调整后每股收益（EPS）为5.71美元，分析师预期5.08美元。 第四财季调整后运营利润率44.6%，分析师预期41.9%。 预计第一财季营收40亿-42亿美元，分析师预期37.9亿美元。 受希捷科技财报提振，美股存储芯片概念股盘后走高，西部数据涨6.5%，SK海力士ADR涨2.5%，美光科技涨0.8%，闪迪涨1%，希捷科技一度涨9%。",
@@ -1172,7 +1264,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时51分"
         },
@@ -1186,6 +1278,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
+        },
+        {
+          "title": "美股费城半导体指数下跌4%，英伟达下跌2.98%，台积电下跌3.67%，博通下跌1.87%，SK海力士下跌1.28%，美光科技下跌5%，美国超微公司下跌5.51%，英特尔下跌3.36%，阿斯麦下跌2.73%，泛林集团下跌5.28%，ArmHoldings下跌6.73%，闪迪下跌8.04%，高通下跌2.84%，迈威尔科技下跌4.82%，西部数据下跌0.68%。",
+          "url": "https://wallstreetcn.com/livenews/3141779",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
           "title": "美股芯片存储大跌",
@@ -1216,7 +1319,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时51分"
         },
@@ -1238,7 +1341,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时51分"
         },
@@ -1339,6 +1442,68 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "谷歌据悉承诺投入440亿美元用于数据中心租赁项目的担保",
+          "url": "https://flash.jin10.com/detail/20260729023402802800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "谷歌为macOS版Gemini应用新增Fn键唤醒语音控制功能。",
+          "url": "https://wallstreetcn.com/livenews/3141787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
+          "title": "谷歌公司：在文本文档中推出Gemini支持的评论工作流（Comment Workflows）。",
+          "url": "https://wallstreetcn.com/livenews/3141128",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时21分 ~ 03时13分]"
+        },
+        {
+          "title": "谷歌：Gemini语音功能支持屏幕上下文推理。",
+          "url": "https://flash.jin10.com/detail/20260729231413227800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
+          "title": "谷歌：Gemini MACOS语音模式启用智能听写功能。",
+          "url": "https://flash.jin10.com/detail/20260729231407077800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 4,
       "titles": [
@@ -1349,7 +1514,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时51分"
         },
@@ -1390,31 +1555,30 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "美债",
       "match_count": 2,
       "titles": [
         {
-          "title": "谷歌据悉承诺投入440亿美元用于数据中心租赁项目的担保",
-          "url": "https://flash.jin10.com/detail/20260729023402802800",
+          "title": "决战美联储！短期美债规模将限制美联储操作空间，加息计价过于激进",
+          "url": "https://flash.jin10.com/detail/20260729124117621800",
           "source": "金十数据",
           "ranks": [
-            5
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时13分"
+          "time_info": "13时15分"
         },
         {
-          "title": "谷歌公司：在文本文档中推出Gemini支持的评论工作流（Comment Workflows）。",
-          "url": "https://wallstreetcn.com/livenews/3141128",
-          "source": "华尔街见闻-快讯",
+          "title": "油价飙升推高美债收益率，市场静待美联储利率决议",
+          "url": "https://flash.jin10.com/detail/20260729230250521800",
+          "source": "金十数据",
           "ranks": [
-            6,
-            28
+            24
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 03时13分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         }
       ]
     },
@@ -1451,23 +1615,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "决战美联储！短期美债规模将限制美联储操作空间，加息计价过于激进",
-          "url": "https://flash.jin10.com/detail/20260729124117621800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时15分"
         }
       ]
     }
