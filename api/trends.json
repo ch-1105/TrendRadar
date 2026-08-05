@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-05T21:48:43.508387+08:00",
-  "total_titles_processed": 1467,
+  "generated_at": "2026-08-05T23:56:40.348446+08:00",
+  "total_titles_processed": 1599,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "美股8月开门红，道指新高，亚马逊市值首破三万亿，阿里涨超4%，原油重挫",
@@ -92,6 +92,17 @@
           "time_info": "19时13分"
         },
         {
+          "title": "美伊谈判悬而未决，经济数据与AI需求驱动美股走高，SpaceX跌12%、AMD跌7%，黄金涨3%突破4200，布油涨1%",
+          "url": "https://wallstreetcn.com/articles/3778704",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
           "title": "SpaceX美股盘前下跌7%。",
           "url": "https://wallstreetcn.com/livenews/3145253",
           "source": "华尔街见闻-快讯",
@@ -126,6 +137,17 @@
           "time_info": "[03时21分 ~ 05时04分]"
         },
         {
+          "title": "美股期指延续涨势 SpaceX、AMD盘前大跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2446634",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时48分 ~ 23时56分]"
+        },
+        {
           "title": "英伟达美股盘后涨2%，马斯克此前在电话会上谈及SpaceX算力计划。",
           "url": "https://wallstreetcn.com/livenews/3144976",
           "source": "华尔街见闻-快讯",
@@ -155,7 +177,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时48分"
         },
@@ -177,18 +199,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时48分"
-        },
-        {
-          "title": "美股期指延续涨势 SpaceX、AMD盘前大跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2446634",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时48分"
         },
@@ -210,7 +221,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时48分"
         },
@@ -298,7 +309,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时48分"
         },
@@ -408,7 +419,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时48分"
         },
@@ -427,7 +438,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 27,
+      "match_count": 37,
       "titles": [
         {
           "title": "美财长透露与伊朗达成协议的时间",
@@ -475,6 +486,17 @@
           "time_info": "[13时39分 ~ 16时23分]"
         },
         {
+          "title": "伊朗的最后一张牌",
+          "url": "https://news.ifeng.com/c/8vLNKMOtVmN",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时13分 ~ 23时56分]"
+        },
+        {
           "title": "伊朗：乌克兰道歉了",
           "url": "https://www.douyin.com/hot/2596757",
           "source": "抖音",
@@ -488,15 +510,15 @@
           "time_info": "[01时37分 ~ 07时58分]"
         },
         {
-          "title": "伊朗的最后一张牌",
-          "url": "https://news.ifeng.com/c/8vLNKMOtVmN",
-          "source": "凤凰网",
+          "title": "巴林国王媒体顾问表示，巴林防空部队正在抵御伊朗空中攻击。据他称，最近数小时内已击退多次伊朗空中袭击。此前，巴林因空袭威胁拉响了防空警报。",
+          "url": "https://flash.jin10.com/detail/20260805234743581800",
+          "source": "金十数据",
           "ranks": [
-            3
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 21时48分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "霍尔木兹复航现曙光？美伊官员称伊朗与阿曼接近达成协议",
@@ -529,7 +551,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时48分"
         },
@@ -591,13 +613,24 @@
           "time_info": "06时56分"
         },
         {
+          "title": "伊朗称与阿曼的联合声明正处于终审阶段 双方就航运路线达成一致",
+          "url": "https://flash.jin10.com/detail/20260805231327490800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
           "title": "伊朗和意大利外长讨论霍尔木兹海峡谈判。（伊朗塔斯尼姆通讯社）",
           "url": "https://wallstreetcn.com/livenews/3145416",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时48分"
         },
@@ -613,6 +646,17 @@
           "time_info": "03时21分"
         },
         {
+          "title": "伊朗称和阿曼就霍尔木兹海峡拟定航道坐标达成一致",
+          "url": "https://flash.jin10.com/detail/20260805231117427800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
           "title": "伊朗国家广播电视台（IRIB）: 伊朗外交部发言人宣布，伊朗与阿曼旨在保障霍尔木兹海峡航运安全通行的谈判仍在继续。",
           "url": "https://wallstreetcn.com/livenews/3144874",
           "source": "华尔街见闻-快讯",
@@ -622,6 +666,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
+        },
+        {
+          "title": "伊朗称和阿曼就霍尔木兹海峡拟定航道坐标达成一致",
+          "url": "https://wallstreetcn.com/livenews/3145479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
+          "title": "伊朗外交部发言人：我们研究了与阿曼就霍尔木兹海峡问题进行会谈的各种技术、法律、安全和环境层面。",
+          "url": "https://flash.jin10.com/detail/20260805230926333800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
+          "title": "伊朗：与阿曼围绕航运路线达成共识",
+          "url": "https://wallstreetcn.com/livenews/3145478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "伊朗称与阿曼就霍尔木兹海峡的谈判进展“积极”",
@@ -668,15 +745,48 @@
           "time_info": "01时38分"
         },
         {
+          "title": "伊朗外交部发言人：与阿曼的谈判专业且进展顺利。",
+          "url": "https://flash.jin10.com/detail/20260805230516483800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
+          "title": "伊朗外交部发言人：外交部长或议长暂无出访巴基斯坦或卡塔尔的计划。",
+          "url": "https://flash.jin10.com/detail/20260805230441113800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
           "title": "伊朗官员：“抵抗阵线”协调行动增强对美威慑",
           "url": "https://wallstreetcn.com/livenews/3145405",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时48分"
+        },
+        {
+          "title": "伊朗外交部发言人：伊朗-阿曼协议本身并不意味着霍尔木兹海峡（通行）是安全的。联合声明正处于最终起草阶段。",
+          "url": "https://flash.jin10.com/detail/20260805230343292800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "美国媒体：伊朗立场软化，考虑允许欧洲国家清除霍尔木兹海峡的水雷",
@@ -699,6 +809,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
+        },
+        {
+          "title": "报道：官员称美财政部移除伊朗相关制裁措施并不代表政策转变",
+          "url": "https://wallstreetcn.com/livenews/3145467",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "美民主党议员致信赫格塞思 质疑五角大楼对伊朗战争的伤亡统计",
@@ -729,7 +850,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时48分"
         }
@@ -737,7 +858,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
@@ -764,17 +885,6 @@
           "time_info": "[13时39分 ~ 19时13分]"
         },
         {
-          "title": "特朗普所乘直升机遭遇飞行安全事件",
-          "url": "https://www.toutiao.com/trending/7670517654829927979/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时48分"
-        },
-        {
           "title": "特朗普正进入两难局面：要么升级美伊局势，要么妥协",
           "url": "https://flash.jin10.com/detail/20260805155501026800",
           "source": "金十数据",
@@ -797,6 +907,18 @@
           "time_info": "07时58分"
         },
         {
+          "title": "特朗普所乘直升机遭遇飞行安全事件",
+          "url": "https://www.toutiao.com/trending/7670517654829927979/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时48分 ~ 23时56分]"
+        },
+        {
           "title": "伊朗否认启动与美国谈判，伊媒：这是特朗普第十次在对德黑兰的“决定性”军事威胁面前退缩",
           "url": "https://wallstreetcn.com/articles/3778616",
           "source": "华尔街见闻",
@@ -814,9 +936,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时48分"
+        },
+        {
+          "title": "最快今日宣布！霍尔木兹开放协议据悉接近达成 特朗普发声助阵",
+          "url": "https://www.cls.cn/detail/2446327",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "特朗普：我的真实民调正处于最好水平",
@@ -847,7 +980,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时48分"
         },
@@ -907,6 +1040,17 @@
           "time_info": "06时56分"
         },
         {
+          "title": "以色列总理内塔尼亚胡：美国总统特朗普是我们最好的朋友，但我已明确表示，以色列的存在不容谈判。",
+          "url": "https://flash.jin10.com/detail/20260805230618737800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-05）",
           "url": "https://flash.jin10.com/detail/20260805181255161800",
           "source": "金十数据",
@@ -957,7 +1101,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时48分"
         },
@@ -971,6 +1115,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
+        },
+        {
+          "title": "特朗普推进移民执法 美国驱逐令签发量6月升至历史新高",
+          "url": "https://wallstreetcn.com/livenews/3145469",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "卡塔尔元首与特朗普就美伊局势通话",
@@ -1031,8 +1186,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 21时48分]"
+          "appearance_count": 3,
+          "time_info": "[19时13分 ~ 23时56分]"
         },
         {
           "title": "OpenCode 发文称 DeepSeek 单日吞下 8 万亿 Token，传递出哪些信号？",
@@ -1125,11 +1280,12 @@
           "url": "https://www.zhihu.com/question/2068265537105302957",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时48分 ~ 23时56分]"
         },
         {
           "title": "英国机构报告AI安全事件 涉Anthropic和OpenAI模型",
@@ -1208,7 +1364,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时48分"
         },
@@ -1236,7 +1392,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时48分"
         }
